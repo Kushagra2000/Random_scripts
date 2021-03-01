@@ -1,0 +1,6744 @@
+An.stop
+Time
+SpeedoMeterApp.main
+Navigation
+a2dp.Vol
+Multimedia
+aarddict.android
+Reading
+ac.robinson.mediaphone
+Multimedia
+acr.browser.lightning
+Internet
+agersant.polaris
+Multimedia
+agrigolo.chubbyclick
+Multimedia
+ai.susi
+Internet
+akk.astro.droid.moonphase
+Multimedia, Time
+am.ed.exportcontacts
+System
+am.ed.importcontacts
+System
+am.zoom.mbrowser
+Internet
+am.zoom.mlauncher
+System
+amirz.dngprocessor
+Multimedia
+amirz.rootless.nexuslauncher
+System, Theming
+androdns.android.leetdreams.ch.androdns
+Internet
+android.androidVNC
+System
+android.game.prboom
+Games
+android.jonas.fakestandby
+System
+android.nachiketa.ebookdownloader
+Internet, Reading
+anupam.acrylic
+Graphics
+app.crescentcash.src
+Money
+app.easytoken
+Security
+app.fedilab.fedilabtube
+Internet
+app.fedilab.lite
+Internet
+app.fedilab.mobilizon
+Internet
+app.fedilab.nitterizeme
+Internet
+app.fedilab.nitterizemelite
+Internet
+app.fedilab.openmaps
+Navigation
+app.fedilab.tubelab
+Internet
+app.fyreplace.client
+Internet
+app.librenews.io.librenews
+Reading
+app.olauncher
+Theming
+app.openconnect
+Internet
+app.pott.kaffeepott.androidclient
+Navigation
+app.reading.stoic.stoicreading
+Reading
+app.varlorg.unote
+Writing
+app.zeusln.zeus
+Money
+apps.amine.bou.readerforselfoss
+Reading, Internet
+apps.babycaretimer
+Time
+apps.droidnotify
+System
+apps.jizzu.simpletodo
+Time
+aq.com.sharetobrowser
+System, Internet
+ar.rulosoft.mimanganu
+Reading
+arity.calculator
+Science & Education
+at.bitfire.cadroid
+Internet
+at.bitfire.davdroid
+Internet
+at.bitfire.devicelocator
+Phone & SMS, System
+at.bitfire.gfxtablet
+Graphics
+at.bitfire.icsdroid
+Time
+at.bitfire.nophonespam
+Phone & SMS
+at.dasz.KolabDroid
+System
+at.h4x.awhip
+Games
+at.h4x.metaapp
+Connectivity, Science & Education, Time
+at.jclehner.rxdroid
+Sports & Health, Time
+at.linuxtage.companion
+Time
+at.or.at.plugoffairplane
+Connectivity, System
+at.tacticaldevc.panictrigger
+Connectivity, Navigation, Phone & SMS, Security
+at.tomtasche.reader
+Reading
+at.univie.sensorium
+Science & Education
+at.zweng.bankomatinfos
+Money
+at.zweng.bankomatinfos2
+Money
+atitel.com.todoer
+Internet
+atm.nasaimages
+Science & Education, Multimedia
+atm.rocketguardian
+Games
+atm.starun.game
+Games
+au.com.darkside.xdemo
+System
+au.com.wallaceit.reddinator
+Internet
+au.id.micolous.farebot
+Navigation
+aws.apps.androidDrawables
+Development
+aws.apps.usbDeviceEnumerator
+System
+axp.tool.apkextractor
+System
+bander.notepad
+Writing
+be.ac.ulb.lisa.idot.android.dicomviewer
+Sports & Health
+be.brunoparmentier.apkshare
+System
+be.brunoparmentier.dnssetter
+Connectivity
+be.brunoparmentier.openbikesharing.app
+Navigation
+be.brunoparmentier.wifikeyshare
+Connectivity
+be.digitalia.fosdem
+Time
+be.humanoids.webthingify
+Internet
+be.lionslink.ucllstudent
+Science & Education
+be.mygod.vpnhotspot
+Connectivity
+be.norio.randomapp
+System
+be.ppareit.shutdown
+Theming
+be.ppareit.swiftp_free
+Connectivity
+be.quentinloos.manille
+Games
+be.uhasselt.privacypolice
+Connectivity
+biz.codefuture.svgviewer
+Multimedia
+biz.gyrus.yaab
+System
+br.com.frs.foodrestrictions
+Sports & Health
+br.com.gualandi.dailypill
+Sports & Health
+br.odb.knights
+Games
+br.usp.ime.retrobreaker
+Games
+btools.routingapp
+Navigation
+budo.budoist
+Time
+buet.rafi.dictionary
+Reading
+bughunter2.smsfilter
+Phone & SMS
+bus.chio.wishmaster
+Internet
+by.yauhenl.gardine
+System
+byrne.utilities.converter
+Science & Education
+byrne.utilities.hashpass
+Security
+byrne.utilities.pasteedroid
+Internet
+ca.andries.portknocker
+Security, Internet
+ca.chancehorizon.paseo
+Sports & Health
+ca.cmetcalfe.locationshare
+Connectivity
+ca.cmetcalfe.xposed.disablebatterywarnings
+System
+ca.cmetcalfe.xposed.flatconnectivityicons
+System
+ca.ddaly.android.heart
+Sports & Health
+ca.farrelltonsolar.classic
+System
+ca.littlesvr.everyonestimetable
+Time
+ca.mimic.apphangar
+System
+ca.momi.lift
+Sports & Health
+ca.mudar.fairphone.peaceofmind
+Phone & SMS
+ca.pr0ps.xposed.entrustunblocker
+System
+ca.rmen.android.frenchcalendar
+Theming, Time
+ca.rmen.android.networkmonitor
+Connectivity
+ca.rmen.android.poetassistant
+Writing
+ca.rmen.android.scrumchatter
+Time
+ca.rmen.nounours
+Games
+ca.snoe.deedum
+Internet
+caldwell.ben.bites
+Reading
+caldwell.ben.trolly
+Writing
+campyre.android
+Internet
+cat.jordihernandez.cinecat
+Multimedia
+cat.mvmike.minimalcalendarwidget
+Theming, Time
+cat.pantsu.nyaapantsu
+Multimedia
+cc.calliope.mini
+Connectivity
+cc.co.eurdev.urecorder
+Multimedia
+cc.echonet.coolmicapp
+Multimedia
+cc.rainwave.android
+Multimedia
+cf.fridays.fff_info
+Science & Education
+ch.abertschi.adfree
+Internet
+ch.bailu.aat
+Navigation, Sports & Health
+ch.blinkenlights.android.apnswitch
+Connectivity
+ch.blinkenlights.android.vanilla
+Multimedia
+ch.blinkenlights.android.vanillaplug
+Multimedia
+ch.blinkenlights.battery
+System
+ch.citux.td
+Multimedia, Internet
+ch.corten.aha.worldclock
+Time
+ch.cryptobit.letterbox
+Games
+ch.deletescape.lawnchair.plah
+Theming
+ch.dissem.android.drupal
+Internet, Writing
+ch.famoser.mensa
+Internet, Sports & Health
+ch.fixme.cowsay
+Development
+ch.fixme.status
+Time
+ch.gassenarbeit.bern.your.rights
+Reading, Science & Education
+ch.hgdev.toposuite
+Science & Education
+ch.hsr.eyecam
+Multimedia
+ch.ihdg.calendarcolor
+Time
+ch.jiikuy.velocitycalculator
+Graphics, Multimedia, Science & Education
+ch.logixisland.anuto
+Games
+ch.nexuscomputing.android.osciprimeics
+Science & Education
+ch.protonvpn.android
+Connectivity, Internet
+ch.rmy.android.http_shortcuts
+System
+ch.rmy.android.statusbar_tacho
+Navigation
+ch.rrelmy.android.batterymanager
+System
+ch.rrelmy.android.locationcachemap
+System
+ch.seto.kanjirecog
+Science & Education
+ch.thgoebel.spartathlonapp
+Sports & Health
+chat.rocket.android
+Internet
+chromiumupdater.bamless.com.chromiumsweupdater
+Internet
+cityfreqs.com.pilfershushjammer
+Security, System
+cl.coders.faketraveler
+Navigation, Development
+click.dummer.UartSmartwatch
+Connectivity, Development
+click.dummer.funphonepuppet
+Games
+click.dummer.have_radiosion
+Multimedia, Internet
+click.dummer.imagesms
+Phone & SMS, Connectivity
+click.dummer.notify_to_jabber
+Connectivity
+click.dummer.rickapp
+Games, Multimedia
+click.dummer.textthing
+Development, Writing
+click.dummer.yidkey
+Writing
+co.appreactor.news
+Internet, Reading, Multimedia
+co.epitre.aelf_lectures
+Reading
+co.garmax.materialflashlight
+System
+co.loubo.icicle
+Internet, Security
+co.prestosole.clima
+Internet
+co.pxhouse.sas
+Internet, System
+co.timsmart.vouchervault
+Money
+com.Bisha.TI89EmuDonation
+Science & Education
+com.DartChecker
+Sports & Health, Games
+com.EthanHeming.NeuralNetworkSimulator
+Science & Education
+com.FireFart.Permissions2
+System
+com.GTP.eveminer
+Games
+com.LAPARCELA.nihonoari
+Science & Education
+com.MarcosDiez.shareviahttp
+Internet
+com.Pau.ImapNotes2
+Internet
+com.Sommerlichter.social
+Internet
+com.a5corp.weather
+Internet
+com.aa.mynotes
+Writing
+com.aaronhalbert.nosurfforreddit
+Internet
+com.aaronjwood.portauthority
+Security
+com.abast.homebot
+System
+com.abcdjdj.rootverifier
+System
+com.abhijitvalluri.android.fitnotifications
+Connectivity
+com.abhinavmarwaha.curator
+Internet, Reading
+com.abhinavmarwaha.wrotto
+Writing
+com.abitsinc.andr
+System
+com.achep.acdisplay
+System
+com.achep.widget.jellyclock
+Theming
+com.acvarium.tasclock
+Time
+com.adam.aslfms
+Multimedia
+com.addi
+Science & Education
+com.adgad.kboard
+System
+com.adguard.android.contentblocker
+Internet
+com.adonai.manman
+Development, System
+com.adstrosoftware.launchappops
+System
+com.aefyr.sai.fdroid
+System
+com.afollestad.nocknock
+Internet, Development
+com.agateau.catgenerator
+Multimedia
+com.agateau.tinywheels.android
+Games
+com.agnibho.android.solarcompass
+Navigation
+com.ahorcado
+Games
+com.aidinhut.simpletextcrypt
+Security
+com.akdev.nofbeventscraper
+Internet, Time
+com.akop.bach
+Games
+com.alaskalinuxuser.criticalvelocity
+Games
+com.alaskalinuxuser.hourglass
+Time
+com.alaskalinuxuser.justchess
+Games
+com.alaskalinuxuser.justcraigslist
+Internet, Money
+com.alaskalinuxuser.justnotes
+Writing
+com.alaskalinuxuser.rilcontrol
+System
+com.alaskalinuxuser.shipcaptainandcrew
+Games
+com.alexcruz.papuhwalls
+Theming
+com.alexkang.bluechat
+Connectivity
+com.alexkang.loopboard
+Multimedia
+com.alexkang.x3matrixcalculator
+Science & Education
+com.alfray.asqare
+Games
+com.alfray.timeriffic
+Time
+com.alienpants.leafpicrevived
+Multimedia, Graphics
+com.allansimon.verbisteandroid
+Science & Education
+com.altillimity.satpredict
+Navigation, Science & Education
+com.alxgnon.postwriter
+Writing
+com.amabyte.vtucslabmanual
+Science & Education
+com.amaze.filemanager
+System
+com.ames.books
+Science & Education, Reading, Multimedia, Internet
+com.amphoras.tpthelper
+System
+com.ancantus.HYPNOTOAD
+Theming
+com.anddevw.getchromium
+Internet, System
+com.andrew.apollo
+Multimedia
+com.android.adbkeyboard
+Development, Internet
+com.android.gpstest.osmdroid
+Navigation
+com.android.keepass
+Security
+com.android.launcher3
+Theming
+com.android.music
+Multimedia
+com.android.quake
+Games
+com.android.shellms
+Phone & SMS
+com.android.talkback
+System
+com.android.todolist
+Writing
+com.android2.calculator3
+Science & Education
+com.androidemu.gba
+Games
+com.androidemu.gbc
+Games
+com.androidemu.nes
+Games
+com.androidfromfrankfurt.workingtimealert
+Time
+com.androzic
+Navigation
+com.andybotting.tramhunter
+Navigation
+com.angryburg.uapp
+Internet
+com.angrydoughnuts.android.alarmclock
+Time
+com.anoopknr.pastebin
+Internet
+com.anoshenko.android.mahjongg
+Games
+com.anpmech.launcher
+System
+com.antoniotari.reactiveampacheapp
+Multimedia, Internet
+com.antony.muzei.pixiv
+Theming
+com.anysoftkeyboard.languagepack.SSH
+Writing
+com.anysoftkeyboard.languagepack.afrikaans
+Writing
+com.anysoftkeyboard.languagepack.basque
+Writing
+com.anysoftkeyboard.languagepack.brazilian
+Writing
+com.anysoftkeyboard.languagepack.catalan
+Writing
+com.anysoftkeyboard.languagepack.danish
+Writing
+com.anysoftkeyboard.languagepack.dutch
+Writing
+com.anysoftkeyboard.languagepack.esperanto
+Writing
+com.anysoftkeyboard.languagepack.french
+Writing
+com.anysoftkeyboard.languagepack.french_xlarge
+Writing
+com.anysoftkeyboard.languagepack.galician
+Writing
+com.anysoftkeyboard.languagepack.georgian.fdroid
+Writing
+com.anysoftkeyboard.languagepack.german
+Writing
+com.anysoftkeyboard.languagepack.greek
+Writing
+com.anysoftkeyboard.languagepack.hebrew
+Writing
+com.anysoftkeyboard.languagepack.hungarian
+Writing
+com.anysoftkeyboard.languagepack.icelandic
+Writing
+com.anysoftkeyboard.languagepack.indonesian
+Writing
+com.anysoftkeyboard.languagepack.italian
+Writing
+com.anysoftkeyboard.languagepack.latvian
+Writing
+com.anysoftkeyboard.languagepack.macedonian
+Writing
+com.anysoftkeyboard.languagepack.malayalam
+Writing
+com.anysoftkeyboard.languagepack.neo
+Writing
+com.anysoftkeyboard.languagepack.norwegian
+Writing
+com.anysoftkeyboard.languagepack.osspolish
+Writing
+com.anysoftkeyboard.languagepack.ossturkish
+Writing
+com.anysoftkeyboard.languagepack.pali
+Writing
+com.anysoftkeyboard.languagepack.persian
+Writing
+com.anysoftkeyboard.languagepack.portuguese
+Writing
+com.anysoftkeyboard.languagepack.russian2
+Writing
+com.anysoftkeyboard.languagepack.slovene
+Writing
+com.anysoftkeyboard.languagepack.spain
+Writing
+com.anysoftkeyboard.languagepack.swedish
+Writing
+com.anysoftkeyboard.languagepack.tatar
+Writing
+com.anysoftkeyboard.languagepack.ukrainian
+Writing
+com.anysoftkeyboard.theme.classic_pc
+Writing
+com.apozas.contactdiary
+Sports & Health, Writing
+com.app.Zensuren
+Time, Science & Education
+com.app.missednotificationsreminder
+Connectivity
+com.app2go.sudokufree
+Games
+com.appengine.paranoid_android.lost
+Theming
+com.apps.adrcotfas.goodtime
+Time
+com.appspot.usbhidterminal
+Connectivity
+com.aptasystems.dicewarepasswordgenerator
+Security
+com.aragaer.jtt
+System
+com.arduia.expense
+Money
+com.ariwilson.seismowallpaper
+Theming
+com.arnaud.metronome
+Multimedia
+com.artifex.mupdf.mini.app
+Reading
+com.artifex.mupdf.viewer.app
+Reading
+com.as.anagramsolver
+Reading
+com.asdoi.gymwen
+Internet, Science & Education
+com.asdoi.mebis
+Internet, Science & Education
+com.asdoi.quicktiles
+Development, Multimedia, System
+com.asdoi.timetable
+Science & Education
+com.aselalee.trainschedule
+Navigation
+com.asksven.betterwifionoff
+Connectivity
+com.atelieryl.wonderdroid
+Games
+com.ath0.rpn
+Science & Education
+com.atop
+Internet
+com.atr.tedit
+Writing
+com.aurora.adroid
+System
+com.aurora.corona
+Sports & Health, Internet
+com.aurora.store
+System
+com.averi.worldscribe
+Writing
+com.b44t.messenger
+Internet
+com.bald.uriah.baldphone
+System
+com.banasiak.coinflip
+Games
+com.banasiak.coinflipext.example
+Games
+com.bec3.mobilite
+Development
+com.beckhamd.nasaimageryfetcher
+Multimedia, Science & Education
+com.beemdevelopment.aegis
+Security
+com.benny.openlauncher
+System
+com.bernaferrari.changedetection
+Internet
+com.bernaferrari.sdkmonitor
+System
+com.better.alarm
+System
+com.biglybt.android.client
+Internet
+com.bijoysingh.quicknote
+Writing
+com.blanyal.remindly
+Time
+com.bleyl.recurrence
+Time
+com.blippex.app
+Internet
+com.blntsoft.emailpopup
+Theming
+com.blockbasti.justanotherworkouttimer
+Sports & Health
+com.blogspot.developersu.ns_usbloader
+Connectivity
+com.blogspot.e_kanivets.moneytracker
+Money
+com.bmco.cratesiounofficial
+Development
+com.bmpak.anagramsolver
+Reading
+com.boardgamegeek
+Games
+com.bobbyrne01.howfardoyouswim
+Navigation
+com.boombuler.games.shift
+Games
+com.boombuler.piraten.map
+Navigation
+com.boombuler.widgets.contacts
+Theming
+com.borneq.heregpslocation
+Navigation
+com.botbrew.basil
+Development
+com.bottleworks.dailymoney
+Money
+com.boztalay.puppyframeuid
+Multimedia
+com.brapeba.roaminginfo
+Phone & SMS
+com.brentpanther.bitcoincashwidget
+Money
+com.brentpanther.bitcoinwidget
+Money
+com.brentpanther.ethereumwidget
+Money
+com.brentpanther.litecoinwidget
+Money
+com.bretternst.URLazy
+Development
+com.brewcrewfoo.performance
+System
+com.bri1.soundbored
+Multimedia
+com.brianco.colorclock
+Theming
+com.briankhuu.nfcmessageboard
+Connectivity
+com.brillenheini.deepscratch.free
+Multimedia
+com.brocktice.JustSit
+Science & Education
+com.brosmike.airpushdetector
+System
+com.brouken.player
+Multimedia
+com.brucelet.spacetrader
+Games
+com.btcontract.wallet
+Money
+com.btmura.android.reddit
+Internet
+com.bvalosek.cpuspy
+System
+com.bwx.bequick
+System
+com.byagowi.persiancalendar
+Time
+com.bytehamster.changelog
+System, Development
+com.bytesforge.linkasanote
+Internet
+com.bytestemplar.tonedef
+Multimedia
+com.call.recorder
+Multimedia
+com.callrecorder.android
+Multimedia
+com.casimirlab.simpleDeadlines
+Time
+com.catchingnow.tinyclipboardmanager
+System
+com.cause.commune
+Multimedia
+com.cepmuvakkit.times
+Time
+com.cg.lrceditor
+Multimedia
+com.cgogolin.library
+Reading
+com.chanapps.four.activity
+Internet
+com.chancehorizon.just24hoursplus
+Time
+com.chessclock.android
+Games
+com.chmod0.manpages
+Reading
+com.ciarang.tallyphant
+Writing
+com.cityfreqs.littlesirecho
+Phone & SMS
+com.cityzen.cityzen
+Navigation
+com.claha.showtimeremote
+Multimedia
+com.cleveroad.sample
+Multimedia, Development
+com.coboltforge.dontmind.multivnc
+Connectivity, Internet
+com.code.android.vibevault
+Multimedia
+com.code61.deadpixel
+Graphics
+com.codebutler.farebot
+Navigation
+com.colinmcdonough.android.torch
+System
+com.colnix.fta
+Sports & Health
+com.color.colornamer
+System
+com.commit451.gitlab
+Internet
+com.commonslab.commonslab
+Internet, Multimedia
+com.commonsware.android.arXiv
+Reading
+com.concentricsky.android.khan
+Science & Education
+com.concept1tech.instalate
+Reading, Internet
+com.controlloid
+Connectivity, Games
+com.cookiegames.smartcookie
+Internet
+com.corner23.android.beautyclocklivewallpaper
+Theming
+com.corona_info
+Science & Education, Sports & Health
+com.corphish.nightlight.generic
+System
+com.corvettecole.gotosleep
+Sports & Health
+com.coste.syncorg
+Writing
+com.cr5315.cfdc
+Theming
+com.cradle.iitc_mobile
+Games
+com.craigd.lmsmaterial.app
+Multimedia
+com.crazyhitty.chdev.ks.munch
+Reading
+com.crazylegend.vigilante
+Security
+com.csmarosi.wifiautoff
+System, Internet
+com.ctemplar.app.fdroid
+Internet
+com.cyanogenmod.filemanager.ics
+System
+com.cybrosys.palmcalc
+Science & Education
+com.daemon.ssh
+Security
+com.dalthed.tucan
+Science & Education
+com.damiengo.websiterss
+Reading
+com.danefinlay.ttsutil
+Multimedia
+com.danhasting.radar
+Multimedia, Internet
+com.daniel.mobilepauker2
+Science & Education
+com.danielkim.soundrecorder
+Multimedia
+com.danielme.muspyforandroid
+Multimedia
+com.danvelazco.fbwrapper
+Internet
+com.dar.nclientv2
+Internet
+com.darknessmap
+Navigation
+com.darshancomputing.BatteryIndicator
+System
+com.darshancomputing.BatteryIndicatorPro
+System
+com.daviancorp.android.mh4udatabase
+Games
+com.daviancorp.android.monsterhunter3udatabase
+Games
+com.davidshewitt.admincontrol
+System
+com.dconstructing.cooper
+Development
+com.dev.xavier.tempusromanum
+Time
+com.deva.knot
+Writing
+com.developerfromjokela.motioneyeclient
+Graphics
+com.developfreedom.wordpowermadeeasy
+Reading
+com.dfa.hubzilla_android
+Internet
+com.dftec.planetcon
+Games
+com.dfzlv.gjjlt.caramelos
+Games
+com.dgmltn.morphclock.app
+Time
+com.diblui.fullcolemak
+System, Writing
+com.digitalfishfun.openshift
+System
+com.dimension.tessercube
+Security
+com.dimtion.shaarlier
+Internet
+com.dirkgassen.wator
+Games, Science & Education
+com.dje.openwifinetworkremover
+Connectivity
+com.dkanada.chip
+Games
+com.dkanada.gramophone
+Multimedia
+com.dkanada.icecons
+Theming, Multimedia
+com.dkanada.openapk
+System
+com.dngames.mobilewebcam
+Multimedia
+com.dnielfe.manager
+System
+com.donnnno.arcticons
+Theming
+com.doomy.overflow
+Phone & SMS
+com.doomy.torch
+System
+com.doplgangr.secrecy
+Security
+com.dosse.airpods
+Connectivity, Multimedia, System
+com.dosse.bwentrain.androidPlayer
+Sports & Health, Multimedia
+com.dosse.speedtest
+Internet, Connectivity
+com.dougkeen.bart
+Navigation
+com.dozingcatsoftware.asciicam
+Multimedia, Graphics
+com.dozingcatsoftware.bouncy
+Games
+com.dozingcatsoftware.cameratimer
+Multimedia
+com.dozingcatsoftware.dodge
+Games
+com.dozingcatsoftware.mouse_pounce
+Games
+com.dozingcatsoftware.vectorcamera
+Multimedia
+com.dozuki.ifixit
+System
+com.dp.logcatapp
+System
+com.drhoffmannstoolsdataloggerreader
+Connectivity
+com.drip
+Sports & Health
+com.dririan.RingyDingyDingy
+Connectivity
+com.drismo
+Science & Education
+com.drodin.tuxrider
+Games
+com.ds.avare
+Navigation
+com.duckduckgo.mobile.android
+Internet
+com.dwak.lastcall
+Phone & SMS
+com.dwalkes.android.toggleheadset2
+Theming
+com.dynamicg.homebuttonlauncher
+System
+com.dynamite.heaterrc
+Connectivity
+com.earthblood.tictactoe
+Games
+com.easwareapps.baria
+System
+com.easwareapps.f2lflap2lock_adfree
+Connectivity
+com.easwareapps.g2l
+Theming
+com.easwareapps.marbleone_ad_free
+Games
+com.easwareapps.quoter
+Reading
+com.easwareapps.transparentwidget
+System
+com.easyfitness
+Sports & Health
+com.easytarget.micopi
+Graphics
+com.ebaschiera.triplecamel
+Internet, Money
+com.ecuamobi.deckwallet
+Money
+com.edwardoyarzun.diccionario
+Reading
+com.ei.bmicalc
+Sports & Health
+com.eibriel.reddot
+Time
+com.einmalfel.podlisten
+Multimedia
+com.elementarytoday.theia
+Theming
+com.eletac.tronwallet
+Money
+com.eleybourn.bookcatalogue
+Reading
+com.elsdoerfer.android.autostarts
+System
+com.elsewhat.android.currentwallpaper
+Theming, Multimedia
+com.emacberry.uuid0xfd6fscan
+Connectivity
+com.emanuelef.remote_capture
+Security, Internet
+com.emmaguy.cleanstatusbar
+Development
+com.emmanuelmess.simpleaccounting
+Money
+com.emmanuelmess.simplecleanup
+System
+com.emmanuelmess.tictactoe
+Games
+com.endeepak.dotsnsquares
+Games
+com.eneko.hexcolortimewallpaper
+Theming
+com.enjoyingfoss.feeel
+Sports & Health
+com.enjoyingfoss.om
+Sports & Health
+com.enrico.earthquake
+Theming
+com.enrico.earthquake.batterysimplysolid
+Theming
+com.enrico.filemanager
+System, Development
+com.enrico.sample
+System
+com.ensoft.imgurviewer
+Internet
+com.eolwral.osmonitor
+System
+com.episode6.android.appalarm.pro
+System
+com.etesync.notes
+Security, System, Internet
+com.etesync.syncadapter
+Security, System, Internet
+com.euedge.openaviationmap.android
+Navigation
+com.evancharlton.mileage
+Science & Education
+com.evenement.encapsulation
+Connectivity, Development
+com.eventyay.attendee
+Internet, Connectivity
+com.eventyay.organizer
+Internet, Connectivity
+com.everysoft.autoanswer
+Phone & SMS
+com.evilinsult
+Science & Education
+com.example.android.maxpapers
+Theming
+com.example.android.monthcalendarwidget
+Theming, Time
+com.example.anycut
+System
+com.example.barcodescanner
+Multimedia
+com.example.booklistingapk
+Connectivity, Development
+com.example.dozenalclock
+Science & Education
+com.example.dozencalc
+Science & Education
+com.example.forgottenumbrella.cardboardmuseum
+Theming
+com.example.harisont.librery
+Reading
+com.example.hochi.nextcompanion
+Navigation
+com.example.ismael.downloadfilesweb
+Internet
+com.example.muzei.muzeiapod
+Multimedia, Theming
+com.example.openpass
+Security
+com.example.root.analyticaltranslator
+Science & Education
+com.example.siete_media
+Games
+com.example.sshtry
+Multimedia
+com.example.tobiastrumm.freifunkautoconnect
+System
+com.example.trigger
+Security, Internet
+com.f0x.eddymalou
+Multimedia
+com.f2prateek.dfg
+Development
+com.fabienli.dokuwiki
+Internet
+com.fake.android.torchlight
+System
+com.falconware.prestissimo
+Multimedia
+com.faltenreich.diaguard
+Sports & Health
+com.farmerbb.notepad
+Writing
+com.farmerbb.secondscreen.free
+System
+com.farmerbb.taskbar
+System
+com.fastaccess.github.libre
+Development
+com.fastebro.androidrgbtool
+Multimedia
+com.fediphoto
+Internet
+com.ferrarid.converterpro
+Science & Education
+com.fgrim.msnake
+Games
+com.finnmglas.launcher
+System
+com.fisheradelakin.interactivestory
+Games, Reading
+com.flasskamp.subz
+Money
+com.flipcamera
+Multimedia
+com.flx_apps.digitaldetox
+Sports & Health
+com.flxrs.dankchat
+Internet
+com.foobnix.pro.pdf.reader
+Reading
+com.formfun
+Games
+com.forrestguice.suntimescalendars
+Time
+com.forrestguice.suntimeswidget
+Time
+com.foxykeep.lifecounter
+Games
+com.fproject.cryptolitycs
+Money
+com.fr3ts0n.androbd.plugin.gpsprovider
+Connectivity
+com.fr3ts0n.androbd.plugin.mqtt
+Connectivity
+com.fr3ts0n.androbd.plugin.sensorprovider
+Connectivity
+com.fr3ts0n.ecu.gui.androbd
+Connectivity
+com.fr3ts0n.stagefever
+Multimedia
+com.frankcalise.h2droid
+Sports & Health
+com.freerdp.afreerdp
+Internet, Connectivity
+com.freezingwind.animereleasenotifier
+Time
+com.freshollie.monkeyboard.keystoneradio
+Multimedia
+com.frostwire.android
+Internet
+com.frozendevs.cache.cleaner
+System
+com.frozendevs.periodictable
+Science & Education
+com.frrahat.quransimple
+Reading
+com.fsck.k9
+Internet
+com.fullscreen
+Reading, Internet
+com.futonredemption.mylocation
+Navigation
+com.futurice.android.reservator
+Time
+com.gabm.fancyplaces
+Navigation
+com.gabm.screenrotationcontrol
+System
+com.gabriel.covid19stats
+Sports & Health, Science & Education
+com.gacode.relaunchx
+System
+com.games.boardgames.aeonsend
+Games
+com.garyodernichts.downgrader
+Development, System
+com.gatheringhallstudios.mhworlddatabase
+Games
+com.gbeatty.arxiv
+Science & Education, Reading
+com.gcstar.scanner
+Multimedia
+com.gcstar.viewer
+Writing
+com.geecko.QuickLyric
+Multimedia, Internet
+com.gelakinetic.mtgfam
+Games
+com.genonbeta.TrebleShot
+Connectivity, Multimedia
+com.germainz.activityforcenewtask
+System
+com.germainz.identiconizer
+System
+com.gh4a
+Development
+com.ghisguth.sun
+Theming
+com.ghostsq.commander
+System
+com.ghostsq.commander.samba
+System
+com.ghostsq.commander.sftp
+System
+com.ghstudios.android.mhgendatabase
+Games
+com.gianlu.aria2android
+Internet
+com.gianlu.aria2app
+Internet
+com.gianlu.dnshero
+Internet
+com.gianlu.pretendyourexyzzy
+Games
+com.gimranov.zandy.app
+Reading
+com.ginkel.hashit
+Security
+com.gitea.theoden8.sudaku
+Games
+com.github.aba2l.taswast
+Time
+com.github.alijc.cricketsalarm
+Time
+com.github.andlyticsproject
+Development
+com.github.andremiras.etheroll
+Games
+com.github.andremiras.qrscan
+Multimedia
+com.github.andremiras.zbarcamdemo
+Games
+com.github.ashutoshgngwr.noice
+Sports & Health, Multimedia
+com.github.ashutoshgngwr.tenbitclockwidget
+Time, Theming
+com.github.axet.audiorecorder
+Multimedia
+com.github.axet.binauralbeats
+Sports & Health
+com.github.axet.bookreader
+Reading
+com.github.axet.callrecorder
+System
+com.github.axet.darknessimmunity
+Theming
+com.github.axet.filemanager
+System
+com.github.axet.hourlyreminder
+Multimedia
+com.github.axet.mover
+System
+com.github.axet.smsgate
+System
+com.github.axet.tonegenerator
+System
+com.github.axet.torrentclient
+Internet
+com.github.catfriend1.syncthingandroid
+Internet
+com.github.cetoolbox
+Science & Education
+com.github.characterdog.bmicalculator
+Sports & Health
+com.github.characterdog.share_my_number
+Phone & SMS, Connectivity
+com.github.cvzi.screenshottile
+System, Multimedia
+com.github.cythara
+Multimedia
+com.github.darthjoey91.hangman
+Games
+com.github.dawidd6.andttt
+Games
+com.github.dfa.diaspora_android
+Internet
+com.github.doomsdayrs.apps.shosetsu
+Reading
+com.github.egonw.isotopes
+Science & Education
+com.github.fi3te.notificationcron
+Time
+com.github.gianlucanitti.expreval
+Science & Education
+com.github.gotify
+Internet
+com.github.grimpy.botifier
+Connectivity
+com.github.gschwind.fiddle_assistant
+Science & Education
+com.github.igrmk.smsq
+Phone & SMS
+com.github.jtjj222.sudburytransit
+Navigation
+com.github.k1rakishou.chan.fdroid
+Internet
+com.github.kiliakin.yalpstore
+System
+com.github.ktsr42.rsyncserver
+Connectivity
+com.github.linwoodcloud.dev_doctor
+Science & Education
+com.github.marmalade.aRevelation
+Security
+com.github.mobile
+Development
+com.github.mofosyne.instantreadme
+Development
+com.github.mofosyne.tagdrop
+Development
+com.github.moko256.twitlatte
+Internet
+com.github.mueller_ma.viewandroidversion
+System
+com.github.muellerma.coffee
+System
+com.github.muellerma.tabletoptools
+Games
+com.github.niccokunzmann.hanumanchalisa
+Multimedia, Reading
+com.github.nicolassmith.urlevaluator
+Internet
+com.github.niqdev.ipcam
+Internet
+com.github.nutomic.controldlna
+Multimedia
+com.github.olga_yakovleva.rhvoice.android
+System
+com.github.onetimepass
+Security
+com.github.ooz.heymeditation
+Time
+com.github.palmcalc2019.palmcalc
+Science & Education
+com.github.pires.obd.reader
+Science & Education
+com.github.postapczuk.lalauncher
+System
+com.github.premnirmal.tickerwidget
+Time
+com.github.quarck.calnotify
+System, Time
+com.github.redpanal.android
+Multimedia, Internet
+com.github.rsteube.t4
+System
+com.github.ruleant.getback_gps
+Navigation
+com.github.samotari.cryptoterminal
+Internet, Money
+com.github.shadowsocks.plugin.v2ray
+Connectivity, Internet
+com.github.siggel.coordinatejoker
+Navigation
+com.github.sryze.wirebug
+Development
+com.github.timnew.smartremotecontrol
+System
+com.github.vauvenal5.yaga
+Internet, Graphics
+com.github.wakhub.tinyclock
+Time
+com.github.wdkapps.fillup
+Science & Education
+com.github.webierta.call_counter
+Phone & SMS
+com.github.xloem.qrstream
+Security, Science & Education, Connectivity
+com.github.yeriomin.dumbphoneassistant
+Phone & SMS, System
+com.github.yeriomin.smsscheduler
+Phone & SMS
+com.github.yeriomin.workoutlog
+Sports & Health
+com.github.yeriomin.yalpstore
+System
+com.gitlab.ardash.appleflinger.android
+Games
+com.gitlab.dibdib.dib2calc
+Science & Education
+com.gitlab.giwiniswut.rwremount
+System
+com.gitlab.kreikenbaum.suntime.fdroid
+Time
+com.gitlab.mahc9kez.shadowsocks.foss
+Connectivity, Internet
+com.gitlab.terrakok.gitfox
+Internet
+com.gk.simpleworkoutjournal
+Sports & Health
+com.glTron
+Games
+com.gladis.tictactoe
+Games
+com.glanznig.beepme
+Science & Education
+com.gluegadget.hndroid
+Internet
+com.gmail.afonsotrepa.pocketgopher
+Internet
+com.gmail.altakey.effy
+Graphics
+com.gmail.anubhavdas54.whatsdeleted
+Internet
+com.gmail.jerickson314.sdscanner
+System
+com.gmail.jiwopene.temperature
+System
+com.gmail.mugcuposup.android
+Multimedia, Graphics
+com.gokhanmoral.stweaks.app
+Development
+com.goltzkiste.guessaday
+Games, Science & Education, Time
+com.googamaphone.typeandspeak
+Science & Education
+com.google.android.accessibility.talkback
+System
+com.google.android.apps.authenticator2
+Security
+com.google.android.diskusage
+System
+com.google.android.gms
+Navigation
+com.google.android.location
+Navigation
+com.google.android.marvin.talkback
+System
+com.google.android.sambadocumentsprovider
+Connectivity
+com.google.android.stardroid
+Navigation
+com.google.code.apps2org
+System
+com.google.code.appsorganizer
+System
+com.google.marvin.shell
+System
+com.google.zxing.client.android
+Multimedia
+com.googlecode.awsms
+Phone & SMS
+com.googlecode.chartdroid
+Multimedia
+com.googlecode.droidwall
+Security, Internet
+com.googlecode.eyesfree.espeak
+Multimedia
+com.googlecode.gogodroid
+Development
+com.googlecode.gtalksms
+Phone & SMS
+com.googlecode.networklog
+Development
+com.googlecode.openwnn.legacy
+Writing
+com.googlecode.tcime
+Writing
+com.governikus.ausweisapp2
+Internet
+com.gpl.rpg.AndorsTrail
+Games
+com.gpstether
+Navigation
+com.gracecode.android.presentation
+Multimedia
+com.greenaddress.abcore
+Money
+com.greenaddress.greenbits_android_wallet
+Money
+com.greenaddress.greenbits_android_wallet.testnet
+Money
+com.gregorywlodarek.torontotransit.torontotransit
+Navigation
+com.grmasa.soundtoggle
+System
+com.grocerymanager
+Time, Writing
+com.gs.mobileprint
+Connectivity
+com.gsnathan.pdfviewer
+Reading
+com.gtp.showapicturetoyourfriend
+Security, Graphics
+com.gueei.applocker
+Security
+com.guillaumepayet.remotenumpad
+System
+com.gulshansingh.hackerlivewallpaper
+Theming
+com.gunshippenguin.openflood
+Games
+com.guvery.notifyme
+Writing
+com.haha01haha01.harail
+Navigation
+com.halftough.webcomreader
+Reading
+com.harasoft.relaunch
+System
+com.hardcodecoder.pulsemusic
+Multimedia
+com.haringeymobile.ukweather
+Time
+com.harleensahni.android.mbr
+Multimedia
+com.hasi.hasid00r
+Security
+com.health.openscale
+Sports & Health
+com.health.openworkout
+Sports & Health
+com.hearham.repeaterstart
+Connectivity
+com.heb12.heb12
+Reading
+com.hectorone.multismssender
+Phone & SMS
+com.hexad.bluezime
+Games
+com.hexad.bluezime.hidenabler
+System, Games
+com.hlidskialf.android.pomodoro
+Time
+com.hobbyone.HashDroid
+Security
+com.holokenmod
+Games
+com.howeyc.spiped
+Internet
+com.htruong.inputmethod.latin
+Writing
+com.hykwok.CurrencyConverter
+Money
+com.hyperionics.fbreader.plugin.tts_plus
+Reading
+com.iamtrk.androidexplorer
+System
+com.iatfei.streakalarm
+Time, Phone & SMS
+com.iazasoft.footguy
+Theming
+com.iboalali.sysnotifsnooze
+System
+com.ibrahimyousre.resumebuilder
+Writing
+com.icechen1.notable.pro
+Time
+com.icecondor.nest
+Navigation
+com.ichi2.anki
+Science & Education
+com.idunnololz.igo
+Games
+com.igisw.openmoneybox
+Money
+com.igormaznitsa.piratedice
+Games
+com.ihunda.android.binauralbeat
+Multimedia
+com.indieweb.indigenous
+Internet
+com.infomaniak.sync
+Internet
+com.infonuascape.osrshelper
+Games
+com.innodroid.mongobrowser
+Development
+com.integralblue.callerid
+Security
+com.internalpositioning.find3.find3app
+Navigation
+com.intervigil.micdroid
+Multimedia
+com.intrications.android.sharebrowser
+Internet
+com.invano.ambientweather
+System
+com.irahul.worldclock
+Time
+com.isanexusdev.androidcpg
+Multimedia, Internet
+com.isdp.trirose
+Multimedia
+com.iskrembilen.quasseldroid
+Internet
+com.itds.sms.ping
+Phone & SMS
+com.ivanvolosyuk.sharetobrowser
+Internet
+com.iven.iconify
+Theming
+com.iven.musicplayergo
+Multimedia
+com.iven.xdafeedreader
+Reading, Internet
+com.jadn.cc
+Multimedia
+com.jairaj.janglegmail.motioneye
+Security
+com.jakebasile.android.hearingsaver
+System
+com.james.status
+Theming
+com.jarsilio.android.autoautorotate
+System
+com.jarsilio.android.drowser
+System
+com.jarsilio.android.scrambledeggsif
+System
+com.jarsilio.android.waveup
+System
+com.jarsilio.android.waveup.tasker
+System
+com.java.SmokeReducer
+Time
+com.javierllorente.adc
+Reading
+com.javiersantos.mlmanager
+System
+com.javiersantos.whatsappbetaupdater
+Internet
+com.jaygoel.virginminuteschecker
+System
+com.jbirdvegas.mgerrit
+Development
+com.jecelyin.editor
+Development
+com.jeffboody.GearsES2eclair
+Development
+com.jeffliu.balancetheball
+Games
+com.jelly.theme.revenge
+Theming
+com.jellyshack.block6
+Phone & SMS
+com.jereksel.libresubstratum
+Theming
+com.jeyries.quake2
+Games
+com.jforce.chapelhillnextbus
+Navigation
+com.jim.sharetocomputer
+Connectivity, Multimedia
+com.jkcarino.ankieditor
+Science & Education
+com.jkuester.unlauncher
+System, Theming
+com.jlyr
+Multimedia
+com.jmartin.temaki
+Writing
+com.jmstudios.chibe
+Time
+com.jmstudios.pointandhit.android
+Games
+com.jmstudios.redmoon
+System
+com.jonbanjo.cupsprintservice
+Connectivity, Multimedia
+com.jonglen7.jugglinglab
+Games
+com.jorgecastillo.kanadrill
+Reading
+com.joshtwigg.cmus.droid
+Multimedia, Internet
+com.jotabout.screeninfo
+Development
+com.jovial.jrpn
+Science & Education
+com.jparkie.aizoban
+Reading, Multimedia
+com.jpwolfso.privdnsqt
+System, Connectivity
+com.jstappdev.dbclf
+Science & Education
+com.jstephan.yarc
+Money
+com.jtechme.jumpgo
+Internet
+com.jtmcn.archwiki.viewer
+Reading, Internet
+com.juet.attendance
+Science & Education, Time
+com.juliansparber.captiveportallogin
+Internet, Connectivity
+com.junjunguo.pocketmaps
+Navigation
+com.jvillalba.apod.classic
+Science & Education, Multimedia
+com.jvillalba.apod.md
+Science & Education, Multimedia
+com.jwetherell.heart_rate_monitor
+Sports & Health
+com.kabouzeid.gramophone
+Multimedia
+com.kaeruct.glxy
+Games
+com.kai1973i
+Science & Education
+com.kaliturin.blacklist
+Phone & SMS
+com.kanedias.archforums
+Internet
+com.kanedias.holywarsoo
+Internet
+com.kanedias.vanilla.audiotag
+Multimedia
+com.kanedias.vanilla.coverfetch
+Multimedia
+com.kanedias.vanilla.lyrics
+Multimedia
+com.kanedias.vanilla.metadata
+Multimedia
+com.kaneoriley.cyanogenport.launcher3
+System
+com.kazufukurou.nanji
+Time
+com.keylesspalace.tusky
+Internet
+com.kgurgul.cpuinfo
+System
+com.khuttun.notificationnotes
+Writing
+com.kibab.android.EncPassChanger
+Security
+com.kkinder.charmap
+Development
+com.kmac5dev.mindfulnotifier
+Sports & Health
+com.kn.paper_foss_theme
+Theming
+com.knirirr.beecount
+Writing
+com.kodarkooperativet.notificationstopwatch
+System
+com.kokkle.gamevirusattack
+Games
+com.kolloware.hypezigapp
+Internet
+com.kolloware.wechange
+Internet
+com.kostmo.wallpaper.spiral
+Theming
+com.koushikdutta.superuser
+Security
+com.kpz.pomodorotasks.activity
+Writing
+com.krawieck.lemmur
+Internet, Reading, Writing
+com.ktprograms.ohmsnow
+Science & Education
+com.ktprograms.watertracker
+Sports & Health
+com.kunzisoft.keepass.libre
+Security
+com.kunzisoft.keyboard.switcher
+Writing
+com.kure.musicplayer
+Multimedia
+com.kvance.Nectroid
+Multimedia
+com.kyakujin.android.tagnotepad
+Writing
+com.kylecorry.trail_sense
+Navigation
+com.lako.moclock
+Time
+com.lako.walletcount
+Money
+com.launcher.silverfish
+System, Theming
+com.leafdigital.kanji.android
+Science & Education
+com.lecz.android.tiltmazes
+Games
+com.leinardi.kitchentimer
+Time
+com.leocardz.multitouch.test
+System
+com.lesspass.android
+Security
+com.lgallardo.qbittorrentclientpro
+Internet
+com.liato.bankdroid
+Money
+com.libopenmw.openmw
+Games
+com.lightbox.android.camera
+Multimedia
+com.lightning.walletapp
+Money
+com.lightplanx.xddk
+Time
+com.limbo.emu.main
+System
+com.limelight
+Games
+com.lindevhard.android.raspfinder
+Development
+com.linkomnia.android.Changjie
+Writing
+com.linuxcounter.lico_update_003
+Internet
+com.lithium.leona.openstud
+Science & Education
+com.litmus.worldscope
+Multimedia
+com.littlebytesofpi.pylauncher
+Development
+com.llamacorp.equate
+Science & Education
+com.lligainterm
+Sports & Health
+com.log28
+Sports & Health
+com.lolo.io.onelist
+Science & Education
+com.lonepulse.travisjr
+Development
+com.lostrealm.lembretes
+Science & Education
+com.lucao.limpazap
+System
+com.lucasdnd.bitclock16
+Time
+com.lucasdnd.decimaltimeclockwidget
+Time
+com.lucasdnd.unixtimeclockwidget
+Time
+com.luk.saucenao
+Internet, Multimedia
+com.luk.timetable2
+Science & Education
+com.lukekorth.screennotifications
+System
+com.lun.chin.aicamera
+Multimedia
+com.lyonbros.turtl
+Writing
+com.m3sv.plainupnp
+Multimedia
+com.machiav3lli.backup
+System
+com.machiav3lli.derdiedas
+Science & Education
+com.madgag.agit
+Development
+com.madlonkay.orgro
+Reading, Development
+com.majeur.applicationsinfo
+System
+com.makeinfo.sudokugenerator
+Games
+com.malek.alldebrid
+Internet
+com.manichord.mgit
+Development
+com.manimarank.spell4wiki
+Internet, Science & Education, Reading
+com.manimarank.websitemonitor
+Internet
+com.manor.currentwidget
+Theming
+com.mantz_it.rfanalyzer
+Science & Education
+com.manuelmaly.hn
+Reading
+com.manuelvargastapia.libgen
+Reading, Science & Education
+com.marcdonald.hibi
+Science & Education, Writing
+com.marceljurtz.lifecounter
+Games
+com.marcospoerl.simplypace
+Sports & Health
+com.mareksebera.simpledilbert
+Reading
+com.markusborg.test
+Sports & Health, Games
+com.markuspage.android.atimetracker
+Time
+com.martinborjesson.o2xtouchlednotifications
+System
+com.marv42.ebt.newnote
+Games, Internet, Money
+com.maskyn.fileeditorpro
+Writing
+com.matburt.mobileorg
+Writing
+com.matejdro.pebbledialer
+Connectivity
+com.materialos.cm.theme
+Theming
+com.mathi_amorim.emmanuel.metrictime
+Time
+com.matoski.adbm
+Development
+com.matt.bolton
+Sports & Health
+com.matt.outfield
+Multimedia
+com.mattallen.dpixel
+System, Multimedia
+com.mattallen.loaned
+Money
+com.matteopacini.katana
+System
+com.mattermost.mattermost
+Internet
+com.mattermost.rnbeta
+Internet
+com.mattgmg.miracastwidget
+System
+com.mattieapps.roommates
+Science & Education
+com.mattmaniak.queueToDo
+Development, Time
+com.mattmaniak.rubbishCalc
+Science & Education, Sports & Health
+com.maxfierke.sandwichroulette
+Games
+com.maxfour.music
+Multimedia
+com.maxistar.textpad
+Development, Writing
+com.mbestavros.geometricweather
+Internet
+com.mcsnowflake.worktimer
+Time
+com.mde.potdroid
+Internet, Reading
+com.mdroid
+System
+com.mehmetakiftutuncu.eshotroid
+Navigation
+com.mendhak.gpslogger
+Navigation
+com.menny.android.anysoftkeyboard
+Writing
+com.menny.anysoftkeyboard.finnish
+Writing
+com.metallic.chiaki
+Games
+com.metinkale.prayer
+Reading, Time
+com.mgaetan89.showsrage
+Internet
+com.michaldabski.filemanager
+System
+com.midisheetmusic
+Multimedia
+com.mikifus.padland
+Writing
+com.mileskrell.texttorch
+Phone & SMS
+com.mill_e.twitterwrapper
+Internet
+com.minar.birday
+Time
+com.minar.randomix
+Games
+com.miqote.angelplayerwp
+Theming
+com.miqote.brswp
+Theming
+com.miqote.shanawp
+Theming
+com.mirasmithy.epochlauncher
+Theming
+com.mishiranu.dashchan
+Internet
+com.mitzuli
+Reading
+com.mkf.droidsat
+Science & Education
+com.mkulesh.micromath.plus
+Science & Education
+com.mkulesh.onpc
+Multimedia, Connectivity
+com.ml.proximitysensorfix
+System, Phone & SMS
+com.mmazzarolo.breathly
+Sports & Health
+com.mobilepearls.sokoban
+Games
+com.mobiperf
+Development
+com.mod.android.widget.fbcw
+System
+com.moez.QKSMS
+Phone & SMS
+com.mohammadag.beamfile
+Connectivity
+com.monead.games.android.sequence
+Games
+com.money.manager.ex
+Money
+com.mookie.circo
+Theming
+com.moonpi.swiftnotes
+Writing
+com.moonpi.tapunlock
+System, Connectivity
+com.morlunk.mountie
+System
+com.morlunk.mumbleclient
+Internet
+com.movim.movim
+Internet
+com.mrbimc.selinux
+Security
+com.mridang.cellinfo
+Theming
+com.mridang.speedo
+System
+com.mridang.throttle
+System
+com.mridang.wifiinfo
+Theming
+com.msapps.touchdetector
+System
+com.mschlauch.comfortreader
+Reading
+com.mustafaali.sensorssandbox
+Connectivity
+com.mustupid.metronome
+Multimedia
+com.mustupid.pitch_pipe
+Multimedia
+com.mykola.lexinproject
+Reading
+com.myopicmobile.textwarrior.android
+Development
+com.mystro256.autooffbluetooth
+Connectivity
+com.mzhang.cleantimer
+Time
+com.nagopy.android.disablemanager2
+System
+com.naman14.stools
+System
+com.namelessdev.mpdroid
+Multimedia
+com.nanoconverter.zlab
+Money
+com.nathaniel.motus.cavevin
+Sports & Health
+com.nathanosman.chronosnap
+Multimedia, Graphics
+com.nauj27.android.colorpicker
+Multimedia
+com.nazmar.dicegainz
+Sports & Health
+com.nbossard.packlist
+Writing
+com.nephi.getoffyourphone
+Time
+com.nephoapp.anarxiv
+Internet
+com.nesswit.galbijjimsearcher
+Multimedia
+com.netthreads.android.noiz2
+Games
+com.newsblur
+Reading
+com.nexes.manager
+System
+com.nextcloud.android.beta
+Internet
+com.nextcloud.client
+Internet
+com.nextcloud.talk2
+Internet, Connectivity
+com.nextcloudpasswords
+Security
+com.nextgis.mobile
+Navigation
+com.nhellfire.kerneladiutor
+System
+com.nicobrailo.pianoli
+Games
+com.nicolasbrailo.vlcfreemote
+Multimedia
+com.nicue.onetwo
+Games
+com.nightshadelabs.anotherbrowser
+System
+com.nikhiljha.lobstersapp
+Internet
+com.nikola.jakshic.dagger
+Games
+com.nilhcem.frcndict
+Reading
+com.nilhcem.hostseditor
+Development
+com.niparasc.papanikolis
+Games
+com.nishantboro.splititeasy
+Money
+com.nkanaev.comics
+Reading, Multimedia
+com.nltechno.dolidroidpro
+Internet
+com.nma.util.sdcardtrac
+System
+com.noahjutz.splitfit.fdroid
+Sports & Health
+com.nolanlawson.apptracker
+System
+com.nolanlawson.chordreader
+Multimedia
+com.nolanlawson.jnameconverter
+Reading
+com.nolanlawson.keepscore
+Games
+com.nolanlawson.logcat
+Development
+com.nomadlabs.labcoat.deeplinks
+Development
+com.nononsenseapps.feeder
+Internet, Reading
+com.nononsenseapps.notepad
+Writing
+com.nononsenseapps.wanidoku
+Science & Education
+com.noprestige.kanaquiz
+Science & Education
+com.notecryptpro
+Writing, Security
+com.notriddle.budget
+Money
+com.notriddle.null_launcer
+Development
+com.nucc.hackwinds
+Time
+com.numguesser.tonio_rpchp.numberguesser
+Games
+com.numix.calculator
+Science & Education
+com.numix.icons_circle
+Multimedia
+com.nutomic.ensichat
+Phone & SMS
+com.nutomic.syncthingandroid
+Internet
+com.nutomic.zertman
+System
+com.oF2pks.adbungfu
+System, Security
+com.oF2pks.applicationsinfo
+System
+com.oF2pks.chairlock
+System
+com.oF2pks.classyshark3xodus
+System, Security
+com.oF2pks.jquarks
+Internet, Navigation, Reading
+com.oF2pks.kalturadeviceinfos
+System
+com.oF2pks.neolinker
+System, Security
+com.oakley.fon
+Internet
+com.oasisfeng.island.fdroid
+System, Security
+com.odnovolov.forgetmenot
+Science & Education
+com.ogsdroid
+Games
+com.olam
+Reading
+com.omegavesko.holocounter
+Time
+com.omegavesko.sutransplus
+Navigation
+com.omgodse.notally
+Writing
+com.oml.recordtimedroid
+Time
+com.onetwofivegames.kungfoobarracuda
+Games
+com.opendoorstudios.ds4droid
+Games
+com.openpi.spellingwizard
+Science & Education
+com.orgzly
+Writing
+com.oriondev.moneywallet
+Money
+com.orphan.amplayer
+Multimedia
+com.orpheusdroid.screenrecorder
+System
+com.orpheusdroid.sqliteviewer
+System
+com.osfans.trime
+Writing
+com.otago.open
+Science & Education
+com.outdoordevs.ellaism.wallet
+Money
+com.outerworldapps.wairtonow
+Navigation
+com.owncloud.android
+Internet
+com.packetsender.android
+Development
+com.palliser.nztides
+Navigation
+com.paranoid.ParanoidWallpapers
+Theming
+com.passcard
+Security, Internet
+com.pavelsikun.runinbackgroundpermissionsetter
+System
+com.pcinpact
+Internet
+com.perflyst.twire
+Multimedia, Internet
+com.perol.asdpl.play.pixivez.libre
+Internet, Graphics, Multimedia
+com.pheelicks.visualizer
+Multimedia
+com.phg.constellations
+Science & Education
+com.phikal.regex
+Games
+com.philliphsu.clock2
+Time
+com.philolog.hoplitekeyboard
+System
+com.phpsysinfo
+System
+com.physphil.android.unitconverterultimate
+Science & Education
+com.picross.nonocross
+Games
+com.pierreduchemin.punchlinebingo
+Games
+com.pierreduchemin.smsforward
+Phone & SMS
+com.pikselbit.wrongpinshutdown
+Security
+com.pilockerstable
+Theming
+com.pilot51.voicenotify
+System
+com.pindroid
+Internet
+com.piratebayfree
+Internet
+com.pitchedapps.frost
+Internet
+com.piwi.stickeroid
+Multimedia
+com.pixiv.muzei.pixivsource
+Multimedia, Theming
+com.pjuu.otterdroid
+Internet
+com.planes.android
+Games
+com.platypus.SAnd
+Navigation
+com.platypus.dicer
+Games
+com.pluscubed.matloglibre
+System
+com.plusonelabs.calendar
+Time
+com.podverse.fdroid
+Multimedia
+com.poinsart.votar
+Science & Education
+com.polipoid
+Internet
+com.politedroid
+Time
+com.poloure.simplerss
+Internet
+com.poupa.attestationdeplacement
+Phone & SMS
+com.poupa.vinylmusicplayer
+Multimedia
+com.powerje.nyan
+Theming
+com.powerpoint45.lucidbrowser
+Internet
+com.practicalapps.hamtrainer
+Science & Education
+com.prangesoftwaresolutions.audioanchor
+Multimedia
+com.prhlt.aemus.Read4SpeechExperiments
+Science & Education
+com.primavera.arduino.listener
+Development
+com.primokorn.enhancement
+Theming
+com.proch.practicehub
+Multimedia
+com.procrastimax.birthdaybuddy
+Time
+com.projectsexception.myapplist.open
+System
+com.punksta.apps.volumecontrol
+System
+com.purplefoto.pfdock
+Navigation
+com.pvpc.precio_luz
+Money
+com.qsp.player
+Games
+com.quaap.audiometer
+Multimedia
+com.quaap.bookymcbookface
+Reading
+com.quaap.computationaldemonology
+Games
+com.quaap.dodatheexploda
+Games
+com.quaap.fishberserker
+Games
+com.quaap.launchtime
+System
+com.quaap.phonefonefun
+Games
+com.quaap.primary
+Science & Education, Games
+com.qubling.sidekick
+Development
+com.quchen.flashcard
+Science & Education
+com.quinncasey.paperless_share
+Reading
+com.radioreddit.android
+Internet
+com.radiostudent.radiostudentstream
+Multimedia
+com.rareventure.gps2
+Navigation
+com.rascarlo.adaptive.brightness.tile
+System
+com.rascarlo.arch.packages
+Development
+com.rascarlo.aurdroid
+Development
+com.rascarlo.power.button.tile
+System
+com.rastating.droidbeard
+Internet
+com.readrops.app
+Internet, Reading
+com.readystatesoftware.ghostlog
+Development
+com.rechnen.app
+Games
+com.redblaster.hsl.main
+Navigation
+com.redcoracle.episodes
+Multimedia
+com.reddyetwo.hashmypass.app
+Security, Internet
+com.redirectapps.tvkill
+Multimedia, System
+com.refactech.driibo
+Multimedia
+com.rehanced.lunary
+Money, Internet
+com.reicast.emulator
+Games
+com.releasestandard.scriptmanager
+Development
+com.reminimalism.materialslivewallpaper
+Theming
+com.repay.android
+Money
+com.replica.replicaisland
+Games
+com.rfo.LASKmobile
+Writing
+com.rfo.basic
+Writing
+com.rhiannonweb.android.migrainetracker
+Time
+com.ridgelineapps.resdicegame
+Games
+com.rigid.birthdroid
+Time
+com.ringdroid
+Multimedia
+com.rj.pixelesque
+Graphics
+com.robert.maps
+Navigation
+com.rockbyte.arxiv
+Science & Education
+com.rogerbassonsrenart.paddletennis
+Games
+com.roguetemple.hydroid
+Games
+com.roguetemple.hyperroid
+Games
+com.rohit2810.spotit
+Multimedia
+com.rohitsuratekar.NCBSinfo
+Science & Education
+com.roozen.SoundManagerv2
+Multimedia
+com.rtbishop.look4sat
+Science & Education
+com.rubenroy.minimaltodo
+Writing
+com.rubenwardy.minetestmodmanager
+Games
+com.ruesga.android.wallpapers.photophase
+Theming
+com.ruesga.rview
+Development, Internet
+com.sagar.screenshift2
+System
+com.saha.batchuninstaller
+System
+com.sahdeepsingh.Bop
+Multimedia
+com.saibotd.bitbeaker
+Development
+com.saiga.find.messagefinder
+Phone & SMS
+com.saladdressing.veterondo
+Multimedia
+com.sam.hex
+Games
+com.samarthdesai.repeatme
+Time
+com.samco.trackandgraph
+Sports & Health
+com.samebits.beacon.locator
+System
+com.samsandberg.mtafarebuster
+Navigation
+com.samsung.srpol
+Science & Education, Security, System
+com.sandeel.bushidoblocks
+Games
+com.sanskritbasics
+Games, Science & Education
+com.sanskritbasics.memory
+Games, Science & Education
+com.sapos_aplastados.game.clash_of_balls
+Games
+com.sapuseven.untis
+Internet
+com.scar45.aokp.co.webviewer
+Internet
+com.scottmain.android.searchlight
+System
+com.scraperclub.android
+Internet
+com.sduduzog.slimlauncher
+System, Theming
+com.seafile.seadroid2
+Internet
+com.seavenois.tetris
+Games
+com.seawolfsanctuary.keepingtracks
+Navigation
+com.seb.SLWP
+Theming
+com.seb.SLWPmaps
+Theming
+com.securefilemanager.app
+Security, System
+com.secuso.privacyFriendlyCodeScanner
+Multimedia, System
+com.secuso.torchlight2
+System
+com.selbie.wrek
+Multimedia, Internet
+com.selesca.xkcdmuzei
+Multimedia, Theming
+com.sensirion.smartgadget
+Connectivity, Science & Education
+com.sentienhq.launcher
+Theming
+com.serone.desktoplabel
+Theming
+com.servoz.appsdisabler
+Security, System, Theming
+com.serwylo.babydots
+Multimedia
+com.serwylo.beatgame
+Games
+com.serwylo.lexica
+Games
+com.serwylo.msjviewer
+Sports & Health
+com.sevag.pitcha
+Multimedia
+com.sevag.unrealtracker
+Reading
+com.sgr_b2.compass
+Navigation
+com.shadcat.secdroid
+Security
+com.shanewmiller.gorecompanion
+Navigation
+com.shatteredpixel.shatteredpixeldungeon
+Games
+com.shkmishra.lyrically
+Multimedia
+com.showmehills
+Navigation
+com.shurik.droidzebra
+Games
+com.sigmarelax.doitoscihub
+Science & Education
+com.sigseg.android.worldmap
+Science & Education
+com.silentlexx.instead
+Games
+com.simonramstedt.yoke
+Connectivity, Games
+com.simplecity.amp_pro
+Multimedia
+com.simpledecredwidget
+Money
+com.simplemobiletools.applauncher
+System
+com.simplemobiletools.calculator
+System
+com.simplemobiletools.calendar.pro
+Multimedia
+com.simplemobiletools.camera
+Multimedia
+com.simplemobiletools.clock
+System
+com.simplemobiletools.contacts.pro
+Phone & SMS
+com.simplemobiletools.dialer
+System
+com.simplemobiletools.draw.pro
+Graphics
+com.simplemobiletools.filemanager.pro
+System
+com.simplemobiletools.flashlight
+System
+com.simplemobiletools.gallery.pro
+Multimedia, Graphics
+com.simplemobiletools.musicplayer
+Multimedia
+com.simplemobiletools.notes.pro
+System
+com.simplemobiletools.smsmessenger
+System
+com.simplemobiletools.thankyou
+System
+com.simplemobiletools.voicerecorder
+System
+com.sinpo.xnfc
+Connectivity
+com.sismics.reader
+Reading
+com.slash.batterychargelimit
+System
+com.sleeptimer
+Sports & Health, Time
+com.sli.ohmcalc
+Science & Education
+com.slothwerks.hearthstone.compendiumforhearthstone
+Games
+com.smartpack.kernelmanager
+System
+com.smartpack.kernelprofiler
+System
+com.smartpack.packagemanager
+System
+com.smartpack.scriptmanager
+System
+com.smartpack.smartflasher
+System
+com.smerty.ham
+Science & Education
+com.smilla.greentooth
+Security, System, Connectivity
+com.smithdtyler.prettygoodmusicplayer
+Multimedia
+com.smithdtyler.prettygoodmusicplayer.launchermode
+Multimedia
+com.smorgasbork.hotdeath
+Games
+com.sound.ampache
+Multimedia
+com.sovworks.edslite
+Security
+com.soyblue.bluesound
+Phone & SMS, Multimedia
+com.spazedog.mounts2sd
+System
+com.spisoft.quicknote
+Writing
+com.sputnik.wispr
+Internet
+com.spydiko.rotationmanager_foss
+System
+com.ssaurel.clocklw
+Theming, Multimedia
+com.starapps.tools.tnefextractor
+Internet
+com.stealthcotper.networktools
+Internet
+com.stonegate.tsacdop
+Multimedia
+com.stoutner.privacybrowser.standard
+Internet
+com.stripe1.xmouse
+System
+com.studio332.flickit
+Games
+com.studio332.flickit.android
+Games
+com.stwalkerster.android.apps.strobelight
+System
+com.stypox.mastercom_workbook
+Science & Education, Internet
+com.styrkurapp.app
+Sports & Health
+com.sunilpaulmathew.debloater
+System
+com.sunilpaulmathew.translator
+Development
+com.sunyata.kindmind
+Sports & Health
+com.superproductivity.superproductivity
+Time
+com.suyashsrijan.forcedoze
+System
+com.sweetiepiggy.everylocale
+System
+com.swiss.tournament
+Games
+com.swordfish.lemuroid
+Games
+com.szchoiceway.aios.bridge
+System
+com.tachibana.downloader
+Internet
+com.tailscale.ipn
+Connectivity
+com.tananaev.calculator
+Science & Education
+com.tananaev.logcat
+System
+com.tasomaniac.dashclock.hackerspace.floss
+Time, Theming
+com.tasomaniac.openwith.floss
+Internet, System
+com.tastycactus.timesheet
+Time
+com.teamdc.stephendiniz.autoaway
+Phone & SMS
+com.teleca.jamendo
+Multimedia
+com.templaro.opsiz.aka
+Multimedia
+com.ten15.diyfish
+Theming
+com.tengu.sharetoclipboard
+System
+com.termoneplus
+System
+com.termux
+Development
+com.termux.api
+System, Development
+com.termux.boot
+Development
+com.termux.nix
+Development
+com.termux.styling
+Development
+com.termux.tasker
+Development
+com.termux.widget
+System
+com.termux.window
+Development
+com.th.XenonWallpapers
+Theming
+com.thefonz.ed_tool
+Games
+com.thehoick.evergreenwishlist
+Reading, Science & Education, Internet
+com.theksmith.android.car_bus_interface
+Connectivity
+com.thermatk.android.xf.fakegapps
+System
+com.theworld.help.cbtandroid
+Sports & Health, Writing
+com.thibaudperso.sonycamera
+Multimedia
+com.threedlite.livePolys
+Theming
+com.threedlite.urforms
+Development
+com.threedlite.userhash.location
+Navigation
+com.tht.k3pler
+Internet, Security
+com.tierep.notificationanalyser
+System
+com.timvdalen.gizmooi
+Multimedia
+com.tinkerlog.android.pongtime
+Time
+com.tistory.deque.previewmaker
+Multimedia
+com.tiwa.pl
+Writing
+com.tjk104.openfndds
+Science & Education, Sports & Health
+com.tjm.crushr
+Writing
+com.tjm.stripepaper
+Multimedia, Theming
+com.tkjelectronics.balanduino
+Development
+com.tmarki.comicmaker
+Graphics
+com.tmendes.birthdaydroid
+Time
+com.tmendes.dadosd
+Development
+com.tnibler.cryptocam
+Security, Multimedia
+com.tobiaskuban.android.monthcalendarwidgetfoss
+Theming
+com.tobykurien.batteryfu
+System
+com.tobykurien.google_news
+Internet
+com.tobykurien.webapps
+Internet
+com.tobykurien.webmediashare
+Internet, Multimedia
+com.todobom.opennotescanner
+Science & Education, Graphics
+com.tomaszmarzeion.notepad
+Writing
+com.tomatodev.timerdroid
+Time
+com.tomer.alwayson
+System
+com.tomer.dbz.widget
+Theming
+com.tomer.draw
+Graphics
+com.tomer.poke.notifier
+Games
+com.tomer.screenshotsharer
+System
+com.tortel.syslog
+System
+com.tortuca.holoken
+Games
+com.totsp.bookworm
+Reading
+com.totsp.crossword.shortyz
+Games
+com.toxtox.philosopherstonewidget
+Money
+com.traffar.a24game
+Games
+com.traffar.game_of_life
+Games, Science & Education
+com.traffar.gomoku
+Games
+com.traffar.oware
+Games
+com.traffar.pentago
+Games
+com.transway.caresteouvert
+Navigation
+com.tritop.androsense2
+Connectivity
+com.truchsess.send2car
+Navigation
+com.tss.android
+Science & Education
+com.tttdevs.stncbookmarks
+Internet, Reading
+com.tum.yahtzee
+Games
+com.tunerly
+Multimedia
+com.tunes.viewer
+Science & Education
+com.tunjid.fingergestures
+System
+com.turtleplayerv2
+Multimedia
+com.tutpro.baresip
+Internet
+com.tutpro.baresip.plus
+Internet
+com.twidere.twiderex
+Internet
+com.twinone.locker
+Security
+com.twistedplane.sealnote
+Writing
+com.twsitedapps.homemanager
+System
+com.u17od.upm
+Security
+com.u2fa.secur
+Security
+com.ubergeek42.WeechatAndroid
+Internet
+com.uberspot.a2048
+Games
+com.ulicae.cinelog
+Multimedia, Writing
+com.ultrafunk.network_info
+Theming
+com.ultramegasoft.flavordex2
+Writing
+com.ultramegatech.ey
+Science & Education
+com.umang.dashnotifier
+Theming
+com.unciv.app
+Games
+com.unwind.networkmonitor
+System, Internet
+com.unwrappedapps.android.wallpaper.creative
+Theming, Multimedia
+com.uploadedlobster.PwdHash
+Internet
+com.urbandroid.dontkillmyapp
+System
+com.utazukin.ichaival
+Multimedia, Reading
+com.utyf.pmetro
+Navigation
+com.vackosar.searchbasedlauncher
+Theming
+com.vadimfrolov.duorem
+System, Internet, Multimedia
+com.valleytg.oasvn.android
+Development
+com.vanderbie.heart_rate_monitor
+Sports & Health
+com.vecturagames.android.app.passwordgenerator
+Security
+com.vecturagames.android.app.passwordmaster
+Security
+com.vedroid.events
+Time
+com.veken0m.bitcoinium
+Money
+com.veniosg.dir
+System
+com.vgorcum.minedmonero
+Money
+com.vincent_falzon.discreetlauncher
+System, Theming
+com.viper.simplert
+Internet
+com.vlath.beheexplorer
+Internet
+com.vlath.keyboard
+Writing
+com.vlille.checker
+Navigation
+com.voidcode.diasporawebclient
+Internet
+com.volosyukivan
+Writing
+com.vonglasow.michael.qz
+Navigation
+com.vonglasow.michael.satstat
+Navigation
+com.vrem.wifianalyzer
+Connectivity
+com.vsmartcard.acardemulator
+Development
+com.vsmartcard.remotesmartcardreader.app
+Connectivity
+com.vuze.android.remote
+Internet
+com.vwp.locdemo
+Navigation
+com.vwp.owmap
+Navigation
+com.vwp.owmini
+Navigation
+com.waist.line
+Sports & Health
+com.wangdaye.mysplash
+Multimedia
+com.wanghaus.remembeer
+Writing
+com.watabou.pixeldungeon
+Games
+com.wbrenna.gtfsoffline
+Navigation, Time
+com.weatherlight.elloshare
+Internet
+com.weicheng.taipeiyoubikeoffline
+Navigation
+com.wentam.defcol
+Graphics
+com.wesaphzt.privatelocation
+Development, Navigation, System
+com.wesaphzt.privatelock
+Security, System
+com.weskenyon.bookmarkos
+Internet
+com.wikaba.ogapp
+Games
+com.willhauck.linconnectclient
+System
+com.willianveiga.countdowntimer
+Time
+com.wireguard.android
+Security, System, Connectivity, Internet
+com.wmstein.tourcount
+Science & Education
+com.wmstein.transektcount
+Science & Education
+com.woefe.shoppinglist
+Writing
+com.wolas.awesomewallpaper
+Theming
+com.wordpress.sarfraznawaz.callerdetails
+Phone & SMS
+com.workingagenda.democracydroid
+Multimedia, Reading, Science & Education
+com.workingagenda.devinettes
+Games
+com.workingagenda.fissure
+Multimedia
+com.wownero.wownerujo
+Money
+com.write.Quill
+Graphics
+com.wrmndfzzy.atomize
+Graphics, Development
+com.x1unix.s60icons
+Theming
+com.xBrowserSync.android
+Connectivity, Security
+com.xabber.android
+Internet
+com.xabber.android.classic
+Internet
+com.xargsgrep.portknocker
+Security
+com.xatik.app.droiddraw.client
+Graphics
+com.xda.theme.cyanogenmod
+Theming
+com.xenris.liquidwarsos
+Games
+com.xlythe.calculator.material
+Science & Education
+com.xlythe.minecraftclock
+Theming
+com.xmission.trevin.android.todo
+Writing
+com.xperia64.timidityae
+Multimedia
+com.xvzan.simplemoneytracker
+Money
+com.yacgroup.yacguide
+Sports & Health
+com.yacgroup.yacguide.dev
+Sports & Health
+com.yasfa.views
+Multimedia, Reading
+com.yassirh.digitalocean
+Internet
+com.yubico.yubiclip
+Connectivity
+com.yubico.yubioath
+Connectivity
+com.yubico.yubitotp
+Connectivity
+com.zachrattner.pockettalk
+Phone & SMS
+com.zagayevskiy.pacman
+Games
+com.zapta.apps.maniana
+Writing
+com.zaren
+Multimedia
+com.zegoggles.smssync
+Phone & SMS
+com.zell_mbc.medilog
+Sports & Health
+com.zoffcc.applications.aagtl
+Navigation
+com.zoffcc.applications.metalab_open_widget
+Internet
+com.zoffcc.applications.trifa
+Internet
+com.zoffcc.applications.zanavi
+Navigation
+com.zoffcc.fahrplan.toxcon
+Internet
+com.zola.bmi
+Sports & Health
+com.zorinos.zorin_connect
+System
+com.zzzmode.appopsx
+Security
+community.fairphone.checkup
+System
+community.fairphone.clock
+System
+community.fairphone.fplauncher3
+Theming
+community.fairphone.launcher
+Theming
+community.fairphone.mycontacts
+System, Phone & SMS
+community.peers.internetradio
+Multimedia, Internet
+community.peers.license
+Development
+cos.premy.mines
+Games
+covidsecure.uk.venuecheckin
+Sports & Health
+cri.sanity
+Phone & SMS
+cs4295.memecreator
+Graphics, Internet
+csci567.squeez
+System
+csd.qtproject.minesweeper
+Games
+cx.hell.android.pdfview
+Reading
+cx.ring
+Phone & SMS, Internet
+cxa.gridwallpaper
+Theming
+cxa.lineswallpaper
+Theming
+cz.antecky.netswitch
+Connectivity
+cz.dvratil.fbeventsync
+Time
+cz.eutopia.snooperstopper
+Security, System
+cz.harvie.northdog
+Navigation
+cz.hejl.chesswalk
+Games
+cz.jiriskorpil.amixerwebui
+Connectivity, Internet, Multimedia
+cz.jirkovsky.lukas.chmupocasi
+Time
+cz.martykan.forecastie
+Internet
+cz.martykan.webtube
+Multimedia, Internet
+cz.nic.turris
+System
+cz.romario.opensudoku
+Games
+cz.vitSkalicky.klavesnice
+Writing
+cz.vitskalicky.lepsirozvrh
+Internet, Science & Education
+d.d.meshenger
+Phone & SMS, Connectivity, Internet
+damo.three.ie
+Internet
+daniel_32.flexiblewallpaper
+Theming
+danielmeek32.compass
+Navigation
+dasher.android
+Writing
+de.Cherubin7th.blackscreenpresentationremote
+Multimedia
+de.HS_Aalen.don
+Science & Education
+de.akaflieg_freiburg.enroute
+Navigation
+de.antonarnold.android.xoverrideheadphonejackdetection
+System, Multimedia
+de.antonfluegge.android.yubnubwidgetadfree
+Internet
+de.antonwolf.agendawidget
+Time
+de.arnefeil.bewegungsmelder
+Time
+de.arnowelzel.android.periodical
+Science & Education
+de.asmw.sudokunst
+Games
+de.audioattack.openlink
+System
+de.azapps.mirakel.dashclock
+Theming
+de.azapps.mirakelandroid
+Writing
+de.b0nk.fp1_epo_autoupdate
+Navigation, System
+de.bahnhoefe.deutschlands.bahnhofsfotos
+Navigation, Games
+de.bashtian.dashclocksunrise
+Theming
+de.baswil.gctools
+Science & Education
+de.baumann.browser
+Internet
+de.baumann.hhsmoodle
+Time, Science & Education
+de.baumann.pdfcreator
+Writing
+de.baumann.quitsmoking
+Sports & Health
+de.baumann.sieben
+Sports & Health
+de.baumann.thema
+Theming
+de.baumann.weather
+Internet
+de.beatbrot.screenshotassistant
+Graphics, System
+de.beowulf.wetter
+Internet
+de.binary_kitchen.doorlock_app
+Internet, Security
+de.bitsharesmunich.smartcoinswallet
+Money
+de.bitsharesmunich.wallet
+Money
+de.bjusystems.vdrmanager
+Multimedia
+de.blau.android
+Navigation
+de.blinkt.openvpn
+Internet
+de.blocklink.pigrid
+Connectivity, Money
+de.bloosberg.basti.childresuscalc
+Sports & Health
+de.boesling.hydromemo
+Time, Sports & Health
+de.bulling.barcodebuddyscanner
+Connectivity
+de.c3nav.droid
+Navigation
+de.ccc.events.badge.card10
+Connectivity
+de.chaosdorf.meteroid
+Money
+de.christinecoenen.code.zapp
+Multimedia
+de.cketti.dashclock.k9
+Theming
+de.clemensbartz.android.launcher
+System
+de.corona.tracing
+Sports & Health
+de.cryptobitch.muelli.barcodegen
+Graphics
+de.cryptobitch.muelli.vouchercalc
+Money
+de.csicar.mensaplan
+Sports & Health
+de.csicar.ning
+Development, Internet
+de.cwde.freeshisen
+Games
+de.cweiske.headphoneindicator
+System, Connectivity
+de.cyberit.wasgeht
+Sports & Health, Time
+de.danielweisser.android.ldapsync
+System
+de.danoeh.antennapod
+Multimedia
+de.delusionsoftware.congress_fahrplan
+Time
+de.democracydeutschland.app
+Science & Education
+de.dennisguse.opentracks
+Sports & Health
+de.determapp.android
+Science & Education
+de.devisnik.android.sliding
+Theming
+de.devmil.muzei.bingimageofthedayartsource
+Multimedia, Theming
+de.devmil.paperlaunch
+Theming
+de.digisocken.anotherrss
+Internet
+de.digisocken.openwort
+Reading
+de.digisocken.reotwe
+Internet
+de.digisocken.stop_o_moto
+Graphics
+de.dotwee.micropinner
+Theming
+de.drhoffmannsoft.pizza
+Money
+de.drhoffmannsoftware
+Science & Education
+de.drhoffmannsoftware.calcvac
+Science & Education
+de.drhoffmannsoftware.xearth
+Theming, Science & Education
+de.duenndns.gmdice
+Games
+de.eidottermihi.raspicheck
+Connectivity, Development
+de.eknoes.inofficialgolem
+Reading
+de.enaikoon.android.keypadmapper3
+Navigation
+de.feisar.wordvalue
+Science & Education
+de.fff.ccgt
+Multimedia
+de.fgerbig.spacepeng
+Games
+de.fmaul.android.cmis
+System
+de.fragdenstaat.app
+Reading, Writing
+de.freehamburger
+Internet
+de.freewarepoint.whohasmystuff
+Money
+de.freifunk_karte.freifunk_karte
+Internet, Navigation
+de.gabbo.forro_lyrics
+Reading
+de.geeksfactory.opacclient
+Reading
+de.grobox.appbundlereporter
+Development
+de.grobox.blitzmail
+Internet
+de.grobox.liberario
+Navigation
+de.hampager.dapnetmobile
+Connectivity
+de.hauke_stieler.geonotes
+Science & Education, Navigation
+de.hechler.andfish
+Games
+de.hfu.funfpunktnull
+Science & Education
+de.hirtenstrasse.michael.lnkshortener
+Internet
+de.hoffmannsgimmicks
+Time
+de.hoffmannsgimmickstaupunkt
+Science & Education
+de.hosenhasser.funktrainer
+Science & Education
+de.hskl.contacts
+Phone & SMS
+de.hu_berlin.eduroam
+Internet
+de.hu_berlin.informatik.spws2014.mapever
+Navigation
+de.igloffstein.maik.aRevelation
+Security
+de.j4velin.pedometer
+Sports & Health
+de.j4velin.systemappmover
+System
+de.j4velin.wifiAutoOff
+Connectivity
+de.jbservices.nc_passwords_app
+Connectivity, Internet, Security, System
+de.jdsoft.law
+Reading
+de.jkliemann.parkendd
+Navigation
+de.jl.notificationlog
+System
+de.jonasbernard.tudarmstadtmoodlewrapper
+Science & Education, Internet
+de.jugendhacker.xmppadmin
+Internet
+de.jurihock.voicesmith
+Multimedia
+de.k3b.android.androFotoFinder
+Multimedia, Graphics
+de.k3b.android.calendar.ics.adapter
+System
+de.k3b.android.contentproviderhelper
+Development, System
+de.k3b.android.intentintercept
+Development
+de.k3b.android.locationMapViewer
+Navigation, System
+de.k3b.android.lossless_jpg_crop
+Multimedia, Graphics
+de.k3b.android.toGoZip
+System
+de.k4ever.k4android
+Internet, Money
+de.kaffeemitkoffein.feinstaubwidget
+Graphics
+de.kaffeemitkoffein.imagepipe
+Graphics
+de.kaffeemitkoffein.tinyweatherforecastgermany
+Internet
+de.karbach.tac
+Games
+de.kodejak.hashr
+Development
+de.koelle.christian.trickytripper
+Money
+de.kromke.andreas.mediascanner
+Multimedia
+de.kromke.andreas.musictagger
+Multimedia
+de.kromke.andreas.opus1musicplayer
+Multimedia
+de.kromke.andreas.unpopmusicplayerfree
+Multimedia
+de.ktran.anno1404warenrechner
+Games
+de.kugihan.dictionaryformids.hmi_android
+Reading
+de.larcado.sesam
+Security
+de.laxu.apps.nachtlagerdownloader
+Multimedia
+de.lihotzki.pixelflood
+Graphics, Internet
+de.lisas.alex.runuserinit
+System, Connectivity
+de.live.gdev.cherrymusic
+Multimedia, Internet
+de.live.gdev.timetracker
+Internet, Time
+de.lsubel.amam
+Games
+de.luhmer.owncloudnewsreader
+Internet
+de.mangelow.balance
+System
+de.mangelow.debdroid
+System
+de.mangelow.network
+System
+de.mangelow.slideitloud
+System
+de.mangelow.syncwifi
+System
+de.mangelow.throughput
+System
+de.markusfisch.android.binaryeye
+Multimedia
+de.markusfisch.android.shadereditor
+Development
+de.markusfisch.android.wavelines
+Theming
+de.marmaro.krt.ffupdater
+Internet
+de.mbutscher.wikiandpad.alphabeta
+Writing
+de.measite.contactmerger
+System
+de.meonwax.soundboard
+Multimedia
+de.metager.metagerapp.fdroid
+Internet
+de.micmun.android.deufeitage
+Time
+de.micmun.android.nextcloudcookbook
+Sports & Health, Connectivity, Reading
+de.moekadu.metronome
+Science & Education
+de.moooon.acrylicons
+Theming
+de.moroway.oc
+Games
+de.msal.muzei.nationalgeographic
+Multimedia, Theming
+de.mw136.tonuino
+Development, Science & Education
+de.mwvb.blockpuzzle
+Games
+de.naturalnet.mirwtfapp
+Science & Education
+de.nellessen.usercontrolleddecryptionoperations
+Security, Science & Education
+de.nodomain.tobihille.seniorlauncher
+System
+de.nproth.pin
+Writing
+de.nulide.bikecomputer
+Navigation, Sports & Health
+de.nulide.findmydevice
+Phone & SMS, Security, System
+de.nulide.shiftcal
+Time
+de.onyxbits.droidentify
+System
+de.onyxbits.drudgery
+Games
+de.onyxbits.geobookmark
+Navigation
+de.onyxbits.listmyapps
+System
+de.onyxbits.photobookmark
+Multimedia
+de.onyxbits.pocketbandit
+Games
+de.onyxbits.remotekeyboard
+Connectivity
+de.onyxbits.sensorreadout
+Development
+de.onyxbits.textfiction
+Games
+de.perflyst.batterycalibration
+System
+de.perflyst.untis
+Internet
+de.ph1b.audiobook
+Multimedia
+de.phoenixstudios.pc_dimmer
+Multimedia
+de.php_tech.piggybudget
+Money
+de.pinyto.exalteddicer
+Games
+de.piratentools.spickerrr
+Time
+de.pixart.messenger
+Internet
+de.qspool.clementineremote
+Multimedia
+de.quaddyservices.dynamicnightlight
+Time
+de.r4md4c.gamedealz
+Internet
+de.rampro.activitydiary
+Writing
+de.reimardoeffinger.quickdic
+Reading
+de.repat.mosf
+System
+de.retujo.bierverkostung
+Writing
+de.robv.android.xposed.installer
+System
+de.rochefort.childmonitor
+Connectivity
+de.rwth_aachen.phyphox
+Science & Education
+de.salomax.currencies
+Money
+de.saschahlusiak.freebloks
+Games
+de.schaeuffelhut.android.openvpn
+Internet
+de.schildbach.oeffi
+Navigation
+de.schildbach.wallet
+Money
+de.schildbach.wallet_test
+Money
+de.schlikk.calls
+Phone & SMS
+de.selfnet.wifisetup
+Connectivity
+de.sensebox.blockly
+Development, Science & Education
+de.serverfrog.pw.android
+Internet, Security
+de.shandschuh.slightbackup
+System
+de.sigfood
+Internet, Science & Education
+de.simplestatswidget
+Phone & SMS
+de.skubware.opentraining
+Sports & Health
+de.smasi.tickmate
+Time
+de.spiritcroc.darkcroc.substratum
+Theming
+de.spiritcroc.defaultdarktheme_oms
+Theming
+de.spiritcroc.riotx
+Internet, Phone & SMS
+de.srlabs.gsmmap
+Science & Education
+de.srlabs.snoopsnitch
+Security
+de.stefan_oltmann.falling_blocks
+Games
+de.stefan_oltmann.kaesekaestchen
+Games
+de.steinpfeffer.rdt
+Science & Education, Science & Education
+de.stephanlindauer.criticalmaps
+Internet
+de.storchp.fdroidbuildstatus
+Development
+de.storchp.opentracks.osmplugin
+Sports & Health, Navigation
+de.storchp.opentracks.osmplugin.offline
+Sports & Health, Navigation
+de.sudoq
+Games
+de.syss.MifareClassicTool
+Connectivity, Development
+de.szalkowski.activitylauncher
+System
+de.t_dankworth.secscanqr
+System
+de.tadris.fitness
+Sports & Health
+de.tap.easy_xkcd
+Reading
+de.taz.android.app.free
+Multimedia, Reading, Science & Education
+de.tcrass.minos
+Games
+de.thecode.android.tazreader
+Internet, Reading
+de.thecode.lmd
+Internet, Reading
+de.tobiasbielefeld.brickgames
+Games
+de.tobiasbielefeld.searchbar
+Internet
+de.tobiasbielefeld.solitaire
+Games
+de.toshsoft.tsvnc
+Connectivity
+de.tu_chemnitz.wlan
+Connectivity
+de.tui.itlogger
+Navigation
+de.tutao.tutanota
+Internet
+de.ub0r.android.clipboardbeam
+System
+de.ub0r.android.portaltimer
+Games
+de.uni_potsdam.hpi.openmensa
+Sports & Health
+de.uwepost.android.deltacam
+Multimedia
+de.vanitasvitae.enigmandroid
+Science & Education
+de.vibora.viborafeed
+Internet
+de.vier_bier.habpanelviewer
+Internet
+de.we.acaldav
+System
+de.wellenvogel.bonjourbrowser
+Internet
+de.westnordost.streetcomplete
+Navigation
+de.wikilab.android.friendica01
+Internet
+de.wikilab.android.ldapsync
+System
+de.xskat
+Games
+de.yaacc
+Multimedia
+de.yazo_games.mensaguthaben
+Connectivity
+de.zieren.rot13
+Development
+deep.ryd.rydplayer
+Multimedia
+design.codeux.authpass.fdroid
+Security
+dev.corruptedark.openchaoschess
+Games
+dev.drsoran.moloko
+Writing
+dev.jmoore.lametricnotify
+Time, System
+dev.jtsalva.cloudmare
+Development, Internet, Security
+dev.leonlatsch.photok
+Security
+dev.lonami.klooni
+Games
+dev.lucanlm.antimine
+Games
+dev.marchello.sharik
+Connectivity
+dev.msfjarvis.aps
+Internet, Science & Education
+dev.patrickgold.florisboard
+System
+dev.pesic.rpncalc
+Science & Education
+dev.ukanth.ufirewall
+Security, Internet
+dk.andsen.asqlitemanager
+Development
+dk.jens.backup
+System
+dk.kjeldsen.carwingsflutter
+Connectivity
+dk.meznik.jan.encrypttext
+Security
+dk.nindroid.rss
+Multimedia
+dmusiolik.pijaret
+System, Security, Connectivity
+dnsfilter.android
+Internet
+douzifly.list
+Time, Writing
+dudeofx.eval
+Science & Education
+dummydomain.yetanothercallblocker
+Phone & SMS
+edu.cmu.cs.speech.tts.flite
+Multimedia
+edu.cmu.cylab.starslinger.demo
+Internet
+edu.cmu.pocketsphinx.demo
+Multimedia
+edu.harvard.android.mmskeeper
+System
+edu.killerud.kitchentimer
+Time
+edu.rit.poe.atomix
+Games
+edu.sfsu.cs.orange.ocr
+Graphics
+edu.stanford.rkpandey.covid19tracker
+Sports & Health, Science & Education
+ee.ioc.phon.android.speak
+Multimedia
+ee.smkv.calc.loan
+Money
+email.schaal.ocreader
+Reading, Internet
+es.cesar.quitesleep
+Phone & SMS
+es.eoinrul.ecwt
+Science & Education
+es.esy.CosyDVR
+Multimedia
+es.usc.citius.servando.calendula
+Time
+espero.jiofibatterynotifier
+Connectivity
+et.nWifiManager
+Connectivity, Theming
+eth.matteljay.mastermindy
+Games
+eu.bauerj.paperless_app
+Reading
+eu.bubu1.fdroidclassic
+System
+eu.depau.etchdroid
+System
+eu.devunit.fb_client
+Internet
+eu.domob.anacam
+Multimedia
+eu.domob.angulo
+Science & Education
+eu.domob.bjtrainer
+Games
+eu.domob.shopt
+Writing
+eu.dorfbrunnen.momkin
+Multimedia, Science & Education
+eu.droogers.smsmatrix
+Phone & SMS
+eu.e43.impeller
+Internet
+eu.faircode.email
+Internet
+eu.faircode.finegeotag
+Multimedia
+eu.faircode.netguard
+Security, Internet
+eu.faircode.xlua
+System, Security
+eu.flatworld.android.slider
+Multimedia
+eu.halaser.beamctrl
+Connectivity
+eu.hydrologis.geopaparazzi
+Navigation
+eu.johncasson.meerkatchallenge
+Games
+eu.kanade.tachiyomi
+Multimedia, Reading
+eu.lavarde.pmtd
+Science & Education
+eu.lepiller.nani
+Science & Education, Reading, Writing
+eu.mrogalski.saidit
+Multimedia
+eu.polarclock
+Time
+eu.pretix.pretixdroid
+Multimedia
+eu.pretix.pretixprint
+Multimedia
+eu.pretix.pretixscan.droid
+Multimedia
+eu.prismsw.lampshade
+Reading
+eu.quelltext.coloring
+Graphics
+eu.quelltext.gita
+Internet, Reading
+eu.quelltext.memory
+Games, Science & Education
+eu.quelltext.mundraub
+Internet, Science & Education, Sports & Health
+eu.roggstar.getmitokens
+Development
+eu.roggstar.luigithehunter.batterycalibrate
+System
+eu.roggstar.luigithehunter.dsaassistent
+Games
+eu.ryuu.screeps
+Games
+eu.siacs.conversations
+Internet
+eu.siacs.conversations.voicerecorder
+Internet
+eu.siebeck.sipswitch
+Phone & SMS
+eu.sum7.conversations
+Internet
+eu.uwot.fabio.altcoinprices
+Money
+eu.veldsoft.brainstonz
+Games
+eu.veldsoft.colors.overflow
+Games
+eu.veldsoft.complica4
+Games
+eu.veldsoft.dice.overflow
+Games
+eu.veldsoft.fish.rings
+Games
+eu.veldsoft.free.klondike
+Games
+eu.veldsoft.house.of.cards
+Games
+eu.veldsoft.hungarian.rings
+Games
+eu.veldsoft.ithaka.board.game
+Games
+eu.veldsoft.kechi
+Games
+eu.veldsoft.politrics
+Games
+eu.veldsoft.scribe4
+Games
+eu.veldsoft.svarka.odds.calculator
+Games
+eu.veldsoft.tri.peaks
+Games
+eu.veldsoft.tuty.fruty.slot
+Games
+eu.veldsoft.vitosha.blackjack
+Games
+eu.veldsoft.vitosha.poker.odds
+Games
+eu.veldsoft.vitoshadm
+Games
+eu.vranckaert.worktime
+Time
+eu.woju.android.packages.hud
+Navigation
+eun.initialvolume
+System
+exa.lnx.a
+Development
+faenza.adw.theme
+Theming
+felixwiemuth.lincal
+Multimedia
+felixwiemuth.simplereminder
+Time
+fi.bitrite.android.ws
+Internet
+fi.harism.wallpaper.flier
+Theming
+fi.harism.wallpaper.flowers
+Theming
+fi.harism.wallpaper.yinyang
+Theming
+fi.kroon.vadret
+Internet
+fi.testbed2
+Science & Education
+fil.libre.repwifiapp
+System, Connectivity, Internet
+fluddokt.opsu.android
+Games
+flunzmas.seasoncalendar
+Science & Education
+fly.speedmeter.grub
+Navigation
+fm.a2d.sf
+Multimedia
+fm.libre.droid
+Multimedia
+foehnix.widget
+Navigation, Phone & SMS
+foss.cnugteren.nlweer
+Science & Education
+foundation.e.blisslauncher
+Theming
+fr.ac_versailles.dane.xiaexpress
+Science & Education
+fr.asterope
+Navigation
+fr.bellev.stdatmosphere
+Science & Education
+fr.bepo.clavierexterne
+System
+fr.byped.bwarearea
+Navigation
+fr.cap_rel.fr.sagc_plongee.fr.nitroxCalc
+Sports & Health
+fr.chenry.android.freshrss
+Internet, Reading
+fr.corenting.convertisseureurofranc
+Money
+fr.corenting.traficparis
+Navigation
+fr.covidat.android
+Navigation, Sports & Health
+fr.cph.chicago.foss
+Navigation
+fr.free.nrw.commons
+Internet
+fr.gaulupeau.apps.InThePoche
+Internet, Reading
+fr.gouv.android.stopcovid
+Sports & Health
+fr.gouv.etalab.mastodon
+Internet
+fr.guillaumevillena.opendnsupdater
+Internet, Security
+fr.herverenault.directdictaphone
+Multimedia
+fr.hnit.babyname
+Science & Education
+fr.hnit.riverferry
+Navigation
+fr.jakse.raphael.simpleprotocolplayer
+Multimedia
+fr.jnda.android.flashalert
+Phone & SMS
+fr.jnda.android.ipcalc
+Internet
+fr.keuse.rightsalert
+System
+fr.kwiatkowski.ApkTrack
+System
+fr.librinfo.evecontrol2
+Connectivity, Development
+fr.ludo1520.whatexp
+Science & Education
+fr.magistry.taigime
+Writing
+fr.masciulli.drinks
+Reading
+fr.miximum.napply
+Theming
+fr.mobdev.blooddonation
+Sports & Health
+fr.mobdev.goblim
+Internet
+fr.neamar.kiss
+Theming
+fr.nicopico.dashclock.birthday
+Time, Theming
+fr.nihilus.music
+Multimedia
+fr.nocle.passegares
+Navigation, Games
+fr.nuage.souvenirs
+Graphics, Multimedia
+fr.pssoftware.scoretarot
+Games
+fr.ralala.hexviewer
+Development, Writing
+fr.renzo.wikipoff
+Reading
+fr.rhaz.ipfs.sweet
+Internet
+fr.s13d.photobackup
+Multimedia
+fr.s3i.pointeuse
+Time
+fr.seeks
+Internet
+fr.simon.marquis.preferencesmanager
+System
+fr.simon.marquis.secretcodes
+Security
+fr.smarquis.sleeptimer
+Time
+fr.strasweb.campus
+Navigation
+fr.syncarnet
+Writing
+fr.tvbarthel.apps.cameracolorpicker
+Multimedia
+fr.tvbarthel.apps.simplethermometer
+System
+fr.tvbarthel.apps.simpleweatherforcast
+Time
+fr.twentynine.keepon
+System
+fr.ubordeaux.math.paridroid
+Science & Education
+fr.unix_experience.owncloud_sms
+Phone & SMS
+fr.witchdoctors.c4ffein.oosfirmwareextractor
+System
+fr.xgouchet.packageexplorer
+Development
+fr.xgouchet.texteditor
+Writing
+fr.xplod.focal
+Multimedia
+fr.xtof54.dragonGoApp
+Games
+fr.xtof54.mousetodon
+Internet
+fr.xtof54.scrabble
+Games
+fr.ybo.transportsbordeaux
+Navigation
+fr.ybo.transportsrennes
+Navigation
+free.rm.netcfgwidget
+Internet
+free.rm.skytube.oss
+Multimedia, Internet
+freemap.opentrail
+Navigation
+friimaind.piholedroid
+Connectivity
+ga.testapp.testapp
+Science & Education
+genius.mohammad.floating.stickies
+Writing
+gg.mw.passera
+Internet, Security
+giraffine.dimmer
+System
+git.rrgb.kinolog
+Multimedia, Writing
+github.daneren2005.dsub
+Multimedia
+github.vatsal.easyweatherdemo
+Internet
+github.yaa110.memento
+Writing
+github.yaa110.piclice
+Multimedia
+godau.fynn.bandcampdirect
+Internet, Multimedia
+godau.fynn.dsbdirect
+Internet
+godau.fynn.usagedirect
+System
+godau.fynn.usagedirect.system
+System
+goo.TeaTimer
+Time
+gr.ndre.scuttloid
+Internet
+gr.ratmole.android.Mach3Pendant
+Connectivity
+grmpl.mk.stepandheightcounter
+Sports & Health
+groomiac.crocodilenote
+Writing, Security
+hans.b.skewy1_0
+Security
+hashengineering.darkcoin.wallet
+Money
+hashengineering.groestlcoin.wallet
+Money
+hashengineering.groestlcoin.wallet_test
+Money
+headrevision.BehatReporter
+Internet
+home.jmstudios.calc
+Science & Education
+horse.amazin.my.stratum0.statuswidget
+Internet
+host.stjin.anonaddy
+Internet
+hr.kravarscan.enchantedfortress
+Games
+hsware.HSTempo
+Science & Education
+hu.tagsoft.ttorrent.search
+Internet, Multimedia
+hu.vmiklos.plees_tracker
+Sports & Health, Time
+hu.vsza.adsdroid
+Reading
+i4nc4mp.myLock
+System
+idv.markkuo.ambitsync
+Connectivity
+im.quicksy.client
+Internet
+im.r_c.android.clearweather
+Internet
+im.r_c.android.jigsaw
+Games
+im.status.ethereum
+Connectivity, Security, Money
+im.vector.app
+Internet, Phone & SMS
+in.ac.dducollegedu.shell
+System, Science & Education
+in.ac.dtu.subtlenews
+Reading
+in.ac.iitb.cse.cartsbusboarding
+Science & Education, Navigation
+in.andres.kandroid
+Internet, Development
+in.arjsna.permissionchecker
+System
+in.blogspot.anselmbros.torchie
+System
+in.indiandragon.shellshock.shellshockvulnerabilityscan
+Security, Development
+in.p1x.tanks_of_freedom
+Games
+in.shick.diode
+Internet
+in.shick.lockpatterngenerator
+Security
+in.umairkhan.remotedroid
+Connectivity
+inc.flide.vi8
+System
+indrora.atomic
+Internet
+info.aario.killcamera
+Multimedia
+info.aario.mywifipasswords
+System, Security
+info.aario.snotepad
+Writing
+info.dvkr.screenstream
+Multimedia, System
+info.frangor.laicare
+Time
+info.guardianproject.checkey
+Development
+info.guardianproject.gilga
+Connectivity
+info.guardianproject.notepadbot
+Writing, Security
+info.guardianproject.pixelknot
+Security
+info.guardianproject.ripple
+Security
+info.lamatricexiste.network
+System
+info.meoblast001.thugaim
+Games
+info.metadude.android.bitsundbaeume.schedule
+Time
+info.metadude.android.cccamp.schedule
+Time
+info.metadude.android.congress.schedule
+Time
+info.metadude.android.datenspuren.schedule
+Time
+info.metadude.android.divoc.schedule
+Time
+info.metadude.android.fosdem.schedule
+Time
+info.metadude.android.rc3.schedule
+Time
+info.papdt.blackblub
+System
+info.puzz.a10000sentences
+Science & Education
+info.schnatterer.nusic
+Multimedia
+info.staticfree.SuperGenPass
+Security
+info.staticfree.android.robotfindskitten
+Games
+info.staticfree.android.twentyfourhour
+Theming
+info.staticfree.android.units
+Science & Education
+info.tangential.cone
+Money
+info.varden.hauk
+Navigation
+info.zamojski.soft.towercollector
+Navigation
+info.zwanenburg.caffeinetile
+System
+io.anuke.mindustry
+Games
+io.davidar.fabularium
+Games, Reading
+io.davidar.tensor
+Internet
+io.github.alketii.mightyknight
+Games
+io.github.benoitduffez.cupsprint
+Connectivity, Multimedia
+io.github.chiver
+Internet
+io.github.chronosx88.yggdrasil
+Internet
+io.github.datastopwatch
+Connectivity, Internet
+io.github.deweyreed.clipboardcleaner
+System
+io.github.domi04151309.alwayson
+System
+io.github.domi04151309.batterytool
+System
+io.github.domi04151309.home
+Internet, Connectivity
+io.github.domi04151309.podscompanion
+Connectivity, Multimedia, System
+io.github.domi04151309.powerapp
+System
+io.github.droidapps.pdfreader
+Reading
+io.github.easyintent.quickref
+Development
+io.github.engsergiu.react
+Games, Sports & Health, Time
+io.github.folderlogs
+System
+io.github.fvasco.pinpoi
+Navigation
+io.github.gsantner.memetastic
+Graphics, Multimedia
+io.github.hasheazy
+Development, System
+io.github.hidroh.materialistic
+Internet
+io.github.hopedia
+Reading
+io.github.installalogs
+System
+io.github.ismywebsiteup
+Development, Internet
+io.github.kobuge.games.minilens
+Games
+io.github.lonamiwebs.stringlate
+Development
+io.github.lufte.lona
+Games
+io.github.mthli.Ninja
+Internet
+io.github.muntashirakon.AppManager
+System
+io.github.muntashirakon.Music
+Multimedia
+io.github.muntashirakon.setedit
+System
+io.github.muntashirakon.unapkm
+System
+io.github.otakuchiyan.dnsman
+Connectivity, System
+io.github.otobikb.inputmethod.latin
+System
+io.github.pd4d10.gittouch
+Development
+io.github.phora.aeondroid
+Time
+io.github.powerinside.scrollsocket
+Connectivity
+io.github.powerinside.syncplay
+Connectivity
+io.github.project_travel_mate
+Navigation
+io.github.randomfilemaker
+Development, System
+io.github.sanbeg.flashlight
+System
+io.github.saveastxt
+System
+io.github.sds100.keymapper
+System
+io.github.sds100.keymapper.inputmethod.latin
+System
+io.github.silinote
+Writing
+io.github.subhamtyagi.lastlauncher
+System
+io.github.subhamtyagi.nightmode
+System
+io.github.subhamtyagi.ocr
+Graphics, Writing
+io.github.subhamtyagi.openinwhatsapp
+Internet, Phone & SMS
+io.github.subhamtyagi.privacyapplock
+Security
+io.github.thachillera.cardsscorekeeper
+Games
+io.github.tiagoshibata.gpsdclient
+Navigation
+io.github.tjg1.nori
+Multimedia
+io.github.tompreuss.apnsettings
+System
+io.github.trytonvanmeer.libretrivia
+Games
+io.github.webbluetoothcg.bletestperipheral
+Connectivity
+io.github.whirish.tvbuses
+Navigation
+io.github.wulkanowy
+Science & Education
+io.github.x0b.rcx
+System
+io.github.z3r0c00l_2k.aquadroid
+Sports & Health
+io.githubfede0d.planetrider
+Games
+io.gitlab.allenb1.todolist
+Writing
+io.gitlab.danielrparks.vibrato
+System
+io.gitlab.mudassir.youtubecacher
+Multimedia
+io.gresse.hugo.anecdote
+Reading, Internet
+io.homeassistant.companion.android.minimal
+Connectivity
+io.infinyte7.ankiimageocclusion
+Science & Education
+io.kuenzler.whatsappwebtogo
+Internet
+io.lbry.browser
+Multimedia, Money
+io.librehealth.toolkit.cost_of_care
+Sports & Health, Science & Education
+io.mainframe.hacs
+Internet
+io.mkg20001.arubanetworkslogin
+Connectivity
+io.mrarm.irc
+Internet
+io.nandandesai.privacybreacher
+Security
+io.neurolab
+Science & Education, Games, Sports & Health, Development
+io.oversec.one
+Security
+io.pslab
+Science & Education
+io.simplelogin.android.fdroid
+Internet
+io.timelimit.android.aosp.direct
+System, Time
+io.timelimit.android.open
+System, Time
+io.tiph.smsspammer
+Phone & SMS
+io.treehouses.remote
+Connectivity
+io.trezor.app
+Money
+io.va.exposed
+System
+io.vertretungsplan.client.android
+Internet
+io.wookey.wallet
+Money
+ir.hsn6.defendo
+Games
+ir.hsn6.k2
+Games
+ir.hsn6.tpb
+Games
+ir.hsn6.trans
+Games
+ir.hsn6.turo
+Games
+ir.mrahimy.conceal
+Multimedia
+is.pinterjann.jaws
+Connectivity
+is.xyz.omw
+Games
+is.xyz.omw_nightly
+Games
+is.xyz.vcmi
+Games
+is.zi.huewidgets
+Connectivity
+it.alessandropira.wesnoth114
+Games
+it.andreascarpino.hostisdown
+Internet
+it.angrydroids.epub3reader
+Reading
+it.collideorscopeapps.codename_hippopotamos
+Reading, Science & Education
+it.diab
+Sports & Health
+it.ecosw.dudo
+Games
+it.eternitywall.eternitywall
+Internet
+it.fabmazz.triestebus
+Navigation
+it.faerb.crond
+System
+it.feio.android.omninotes.foss
+Writing
+it.fossoft.timberfoss
+Multimedia
+it.gmariotti.android.apps.dashclock.extensions.battery
+Theming
+it.greenaddress.cordova
+Money
+it.iiizio.epubator
+Reading
+it.lucci.cm.greyscaletheme
+Theming
+it.mn.salvi.linuxDayOSM
+Navigation
+it.mobimentum.dualsimwidget
+Phone & SMS
+it.niedermann.nextcloud.deck
+Internet
+it.niedermann.owncloud.notes
+Writing, Internet
+it.reyboz.bustorino
+Navigation
+it.reyboz.chordshift
+Multimedia
+it.reyboz.minesweeper
+Games
+it.reyboz.screenlock
+System
+it.rgp.nyagua.pafcalc
+Science & Education
+it.rignanese.leo.slimfacebook
+Internet
+it.rignanese.leo.slimtwitter
+Internet
+it.sasabz.android.sasabus
+Navigation
+it.sineo.android.noFrillsCPUClassic
+Development
+it.skarafaz.mercury
+Internet
+italian.said.fran.theitaliansaid
+Reading
+itkach.aard2
+Reading
+ivl.android.moneybalance
+Money
+jackpal.androidterm
+Development
+jackpal.droidexaminer
+System
+jl.musicalnotes
+Science & Education
+jonas.tool.saveForOffline
+Internet
+joshuatee.wx
+Science & Education
+jp.co.kayo.android.localplayer
+Multimedia
+jp.co.kayo.android.localplayer.ds.ampache
+Multimedia
+jp.co.kayo.android.localplayer.ds.podcast
+Multimedia
+jp.co.omronsoft.openwnn
+Writing
+jp.co.qsdn.android.jinbei3d
+Theming
+jp.ddo.hotmist.unicodepad
+Writing
+jp.forkhub
+Development
+jp.gr.java_conf.hatalab.mnv
+Writing
+jp.ksksue.app.terminal
+Development
+jp.muo.syncmemories
+Multimedia
+jp.redmine.redmineclient
+Internet
+jp.sawada.np2android
+Games
+jp.sblo.pandora.aGrep
+Development
+jp.sfjp.webglmol.NDKmol
+Science & Education
+jp.softstudio.DriversLicenseReader
+Reading
+jp.takke.cpustats
+System
+jp.takke.datastats
+System
+jp.yhonda
+Science & Education
+jpf.android.diary
+Writing
+jpf.android.magiadni
+Multimedia
+julianwi.javainstaller
+Development
+juliushenke.smarttt
+Time
+jupiter.broadcasting.live.tv
+Multimedia
+jwtc.android.chess
+Games
+kaba.yucata.envoy
+Games
+kaljurand_at_gmail_dot_com.diktofon
+Multimedia
+kdk.android.simplydo
+Writing
+kiwi.root.an2linuxclient
+Connectivity
+kmac.dejavu_fonts
+Theming
+koeln.mop.elpeefpe
+Games
+kr.hybdms.sidepanel
+Theming
+kr.softgear.multiping
+Internet
+krasilnikov.alexey.cryptopass
+Security
+kvj.taskw
+System, Time
+la.daube.photochiotte
+Multimedia
+lanchon.sigspoof.checker
+System
+li.klass.fhem
+Internet
+libretasks.app
+System
+link.standen.michael.fatesheets
+Games, Writing
+link.standen.michael.phonesaver
+System
+link.standen.michael.slideshow
+Multimedia
+ltd.evilcorp.atox
+Internet
+luke.launcher
+System, Theming
+makeinfo.com.getid
+System
+mancioboxblog.altervista.it.volumecontrol
+System
+marto.rtl_tcp_andro
+Development
+mattecarra.accapp
+System
+mavonst.app.easylight
+System
+max.music_cyclon
+Multimedia
+mazechazer.android.wottankquiz
+Games
+mbmb5.lumixextendedcontrolapp
+Multimedia
+me.alexghr.bulkshare.android.app2
+Internet
+me.anon.grow
+Science & Education
+me.anuraag.grader
+Science & Education, Time
+me.anuraag.loveactualized
+Games
+me.austinhuang.instagrabber
+Internet, Multimedia
+me.billdietrich.fake_contacts
+Security
+me.blog.korn123.easydiary
+Writing
+me.bpear.archonpackager
+System
+me.ccrama.redditslide
+Reading, Internet
+me.cgarcia.yarr
+Reading
+me.echeung.moemoekyun.fdroid
+Multimedia
+me.hackerchick.catima
+Money
+me.hackerchick.raisetoanswer
+Phone & SMS
+me.hackerchick.sharetoinputstick
+Connectivity
+me.hda.urlhda
+Internet
+me.iacn.mbestyle
+Theming
+me.impa.knockonports
+Security
+me.jakelane.wrapperforfacebook
+Internet
+me.jamesfrost.simpledo
+Writing
+me.jfenn.alarmio
+Time
+me.johnmh.boogdroid
+Development
+me.kavishhukmani.watwitchstickers
+Internet, Theming
+me.kuehle.carreport
+Navigation, Money
+me.malladi.dashcricket
+Sports & Health
+me.murks.feedwatcher
+Internet, Reading
+me.murks.filmchecker
+Multimedia, Connectivity
+me.phh.superuser
+Security
+me.ranko.autodark
+System
+me.rosuh.easywatermark
+Multimedia
+me.sheimi.sgit
+Development
+me.shrimadhavuk.numselapp
+Development
+me.shrimadhavuk.watransmitter
+Internet
+me.thanel.dank
+Internet
+me.tripsit.tripmobile
+Sports & Health
+me.tsukanov.counter
+Writing
+me.wenxinwang.pulsedroidrtp
+Multimedia
+me.wolszon.fastshopping
+Writing
+me.writeily
+Writing
+me.zeeroooo.materialfb
+Internet
+me.zhanghai.android.files
+System
+menion.android.whereyougo
+Navigation
+mf.asciitext.lite
+Writing
+mixedbit.speechtrainer
+Multimedia
+mkg20001.net.samremote
+Multimedia
+ml.adamsprogs.bimba
+Navigation
+ml.docilealligator.infinityforreddit
+Internet, Reading, Multimedia
+mn.tck.semitone
+Multimedia
+mobi.boilr.boilr
+Money
+mobi.cyann.nstools
+Development
+mobi.maptrek
+Navigation
+mobi.omegacentauri.PerApp
+System
+mobi.omegacentauri.SendReduced
+Graphics
+moe.dic1911.urlsanitizer
+Internet
+moe.feng.nhentai
+Multimedia, Internet
+moe.martini.midictrl
+Multimedia
+moe.minori.pgpclipper
+Security
+mohammad.adib.roundr
+System
+monakhv.android.samlib
+Reading
+mono.hg
+Theming
+name.bagi.levente.pedometer
+Sports & Health
+name.boyle.chris.sgtpuzzles
+Games
+name.gdr.acastus_photon
+Navigation
+name.juodumas.ext_kbd_lithuanian
+Writing
+name.livitski.games.puzzle.android
+Games
+name.marfl.ext_kbd_bulgarian_phonetic
+Writing
+name.seguri.android.getforegroundactivity
+System
+name.seguri.android.isphoneencrypted
+Security
+name.seguri.android.lock
+System
+name.soulayrol.rhaa.sholi
+Writing
+name.starnberger.guenther.android.cbw
+Navigation
+namlit.siteswapgenerator
+Sports & Health
+nds.fyll.puzzle_grid
+Writing
+negativedensity.techahashi
+Writing
+net.aangle.rvclock
+Theming
+net.alaindonesia.silectric
+Money
+net.alegen.android.netclip
+System
+net.androgames.level
+Science & Education
+net.androidcomics.acv
+Reading
+net.anzix.osm.upload
+Navigation
+net.artificialworlds.rabbitescape
+Games
+net.asceai.meritous
+Games
+net.avs234
+Multimedia
+net.basov.lws.fdroid
+Connectivity
+net.basov.lws.qr.fdroid
+Connectivity
+net.bible.android.activity
+Reading
+net.bierbaumer.otp_authenticator
+Security
+net.bitconomy.ckpoolwatcher
+Internet, Money
+net.bitplane.android.microphone
+Multimedia
+net.bluetoothviewer
+Development
+net.bmaron.openfixmap
+Navigation
+net.cactii.mathdoku
+Games
+net.chilon.matt.teacup
+Multimedia
+net.codechunk.speedofsound
+Multimedia
+net.currit.tonality
+Multimedia
+net.cyclestreets
+Navigation
+net.czlee.debatekeeper
+Time
+net.dahanne.android.regalandroid
+Internet
+net.dahanne.banq.notifications
+Time
+net.damsy.soupeaucaillou.heriswap
+Games
+net.damsy.soupeaucaillou.recursiveRunner
+Games
+net.daverix.urlforward
+Internet
+net.dcnnt
+Connectivity, System
+net.ddns.mlsoftlaberge.trycorder
+Games, Multimedia
+net.debian.debiandroid
+Development
+net.ebt.muzei.miyazaki
+Multimedia, Theming
+net.eneiluj.moneybuster
+Money
+net.eneiluj.nextcloud.phonetrack
+Navigation
+net.etuldan.sparss.floss
+Reading, Internet
+net.everythingandroid.smspopup
+Phone & SMS
+net.fabiszewski.ulogger
+Navigation
+net.fercanet.LNM
+Games
+net.frju.flym
+Reading
+net.frju.verdure
+Science & Education
+net.gaast.giggity
+Time
+net.gcompris.full
+Science & Education, Games
+net.georgewhiteside.android.abstractart
+Theming
+net.glsk.wpgen
+Theming
+net.gorry.aicia
+Internet
+net.gorry.android.input.nicownng
+Writing
+net.gsantner.dandelior
+Internet
+net.gsantner.markor
+Writing
+net.guildem.publicip
+Connectivity, Internet
+net.haltcondition.anode
+Internet
+net.healeys.lexic
+Games
+net.i2p.android.router
+Security, Internet
+net.iexos.musicalarm
+Time
+net.inbox.pager
+Internet
+net.iowaline.dotdash
+Writing
+net.ivpn.client
+Security
+net.jakevossen.apollotrivia
+Games
+net.jaqpot.netcounter
+System
+net.jjc1138.android.scrobbler
+Multimedia
+net.justdave.nwsweatheralertswidget
+Theming
+net.kervala.comicsreader
+Reading
+net.khertan.forrunners
+Sports & Health
+net.kismetwireless.android.smarterwifimanager
+Connectivity
+net.kollnig.missioncontrol.fdroid
+Internet, Security
+net.kourlas.voipms_sms
+Phone & SMS
+net.ktnx.mobileledger
+Money
+net.lardcave.keepassnfc
+Connectivity
+net.loeuillet.wifi_eap_sim_conf
+Connectivity
+net.logomancy.dashquotes.civ5
+Theming
+net.logomancy.diedroid
+Games
+net.luniks.android.inetify
+Connectivity
+net.mabako.steamgifts
+Internet
+net.majorkernelpanic.spydroid
+Multimedia
+net.mcarolan.whenzebus
+Navigation
+net.micode.compass
+Navigation
+net.micode.fileexplorer
+System
+net.micode.soundrecorder
+Multimedia
+net.minetest.minetest
+Games
+net.moasdawiki.app
+Writing
+net.momodalo.app.vimtouch
+Development
+net.mullvad.mullvadvpn
+Connectivity, Internet, Security, System
+net.mypapit.mobile.myposition
+Navigation
+net.nhiroki.bluelineconsole
+Theming
+net.nightwhistler.pageturner
+Reading
+net.nitroshare.android
+Connectivity
+net.nullsum.audinaut
+Multimedia
+net.nullsum.freedoom
+Games
+net.nurik.roman.dashclock
+Theming
+net.nurik.roman.muzei
+Multimedia, Theming
+net.opendasharchive.openarchive.release
+Multimedia
+net.oschina.app
+Reading
+net.osmand.parkingPlugin
+Navigation
+net.osmand.plus
+Navigation
+net.osmand.srtmPlugin.paid
+Navigation
+net.osmtracker
+Navigation
+net.pejici.easydice
+Games
+net.pejici.summation
+Science & Education
+net.pfiers.osmfocus
+Navigation
+net.pherth.omnomagon
+Reading
+net.phunehehe.foocam
+Multimedia
+net.pierrox.mcompass
+Navigation
+net.pmarks.chromadoze
+Multimedia
+net.pp3345.ykdroid
+System
+net.programmierecke.radiodroid2
+Multimedia, Internet
+net.progval.android.andquote
+Reading
+net.ralphbroenink.muzei.unsplash
+Multimedia, Theming
+net.redsolver.noteless
+Writing
+net.redwarp.gifwallpaper
+Theming
+net.reichholf.dreamdroid
+Connectivity, Multimedia
+net.rocboronat.android.wallpaper.npe
+Theming, Multimedia
+net.rocrail.androc
+Games
+net.schueller.instarepost
+Multimedia
+net.schueller.peertube
+Multimedia
+net.scintill.duotp
+Security
+net.screenfreeze.deskcon
+System
+net.sf.andbatdog.batterydog
+System
+net.sf.andhsli.hotspotlogin
+Connectivity
+net.sf.crypt.gort
+Security
+net.sf.ethersynth
+Multimedia
+net.sf.times
+Time
+net.solutinno.websearch
+System
+net.somethingdreadful.MAL
+Reading
+net.sourceforge.andsys
+System
+net.sourceforge.dibdib.android.dib2qm
+Internet
+net.sourceforge.kid3
+Multimedia
+net.sourceforge.opencamera
+Multimedia
+net.sourceforge.solitaire_cg
+Games
+net.sourceforge.subsonic.androidapp
+Multimedia
+net.sourceforge.wifiremoteplay
+Multimedia
+net.sourceforge.x11basic
+Development, Science & Education
+net.stkaddons.viewer
+Games, Multimedia
+net.syncthing.lite
+Internet
+net.syntaxblitz.plucklock
+Security
+net.szym.barnacle
+Connectivity
+net.taler.cashier
+Money
+net.taler.merchantpos
+Money
+net.taler.wallet.fdroid
+Money
+net.tapi.handynotes
+Writing
+net.tedstein.AndroSS
+Graphics
+net.teknoraver.andhrystone
+System
+net.tevp.postcode
+Navigation
+net.thauvin.erik.android.noussd
+Security
+net.tjado.passwdsafe
+Security
+net.typeblog.shelter
+Security
+net.usikkert.kouchat.android
+Connectivity
+net.vivekiyer.GAL
+System
+net.vonforst.evmap
+Navigation
+net.vreeken.quickmsg
+Internet, Security
+net.wigle.wigleandroid
+Connectivity
+net.xenotropic.quizznworldcap
+Games
+net.xtlive.EDL.Dashboard
+Connectivity, System
+net.xvello.salasana
+Security
+net.yxejamir.misbotheringsms
+Phone & SMS
+net.zygotelabs.locker
+Security
+network.ubic.ubic
+Money
+news.androidtv.launchonboot
+System
+nf.frex.android
+Science & Education
+nightlock.peppercarrot
+Reading
+nitezh.ministock
+Money
+nl.asymmetrics.droidshows
+Multimedia, Internet
+nl.devluuk.sleepywifi
+Connectivity, System
+nl.eventinfra.wifisetup
+Connectivity
+nl.frankkie.bronylivewallpaper
+Theming
+nl.implode.regenalarm
+Science & Education
+nl.implode.weer
+Science & Education
+nl.mpcjanssen.simpletask
+Writing
+nl.mpcjanssen.simpletask.webdav
+Writing
+nl.patrickkostjens.kandroid
+Internet, Development
+nl.ttys0.simplec25k
+Sports & Health
+nl.yoerinijs.notebuddy
+Writing
+no.rkkc.bysykkel
+Navigation
+nodom.darkfm.inventoryguimobile
+Development
+nodomain.freeyourgadget.gadgetbridge
+Connectivity, System, Navigation
+nodomain.freeyourgadget.tpmsmonitor
+Connectivity, System
+nodomain.vanous.blitztypekeyboard
+Reading
+nu.firetech.android.pactrack
+Internet
+nu.firetech.android.wifiwarning
+Connectivity
+nya.kitsunyan.foxydroid
+System
+nya.miku.wishmaster
+Internet
+nz.gen.geek_central.ObjViewer
+Science & Education
+ohi.andre.consolelauncher
+System
+ohm.quickdice
+Games
+one.librem.chat
+Internet, Phone & SMS
+one.librem.mail
+Internet
+one.librem.social
+Internet
+one.librem.social.multi
+Internet
+one.librem.tunnel
+Internet
+online.xournal.mobile
+Science & Education
+open.com.permissionsmanager
+Security
+opencontacts.open.com.opencontacts
+Phone & SMS, Security
+openfoodfacts.github.scrachx.openbeauty
+Sports & Health
+openfoodfacts.github.scrachx.openfood
+Sports & Health
+oppen.gemini.ariane
+Internet
+orbitlivewallpaperfree.puzzleduck.com
+Theming
+org.adaway
+System, Security
+org.adblockplus.android
+Internet
+org.addhen.smssync
+Phone & SMS
+org.adw.launcher
+Theming
+org.afhdownloader
+Internet
+org.aja.flightmode
+Connectivity
+org.akvo.rsr.up
+Internet
+org.ale.openwatch
+Multimedia
+org.ale.scanner.zotero
+Reading
+org.aminb.mathtools.app
+Science & Education
+org.amoradi.syncopoli
+Connectivity
+org.andglkmod.hunkypunk
+Games
+org.andresoviedo.dddmodel2
+Graphics, Multimedia
+org.androidappdev.batterywidget
+Theming
+org.androidappdev.wifiwidget
+Theming
+org.androidfromfrankfurt.archnews
+Reading
+org.androidpn.client
+System
+org.androidsoft.app.permission
+System
+org.androidsoft.coloring
+Graphics
+org.androidsoft.games.memory.tux
+Games
+org.androidsoft.games.puzzle.kids
+Games
+org.androidsoft.games.slowit
+Games
+org.andstatus.app
+Internet
+org.andstatus.todoagenda
+Time
+org.anothermonitor
+System
+org.appsroid.fxpro
+Graphics
+org.ardour
+Multimedia
+org.artsoft.rocksndiamonds
+Games
+org.asdtm.fas
+Internet
+org.asdtm.goodweather
+Internet
+org.asnelt.derandom
+Security
+org.asteroidos.sync
+Connectivity
+org.astonbitecode.rustkeylock
+Security
+org.atai.TessUI
+Multimedia, Graphics
+org.atalk.android
+Internet
+org.aykit.MyOwnNotes
+Writing
+org.balau.fakedawn
+Science & Education
+org.bandev.buddhaquotes
+Science & Education
+org.basic.lg
+Connectivity
+org.basketbuilddownloader
+Internet
+org.bc_bd.mrwhite
+System
+org.beide.bomber
+Games
+org.beide.droidgain
+Multimedia
+org.berlin_vegan.bvapp
+Navigation
+org.bienvenidoainternet.app
+Internet
+org.billthefarmer.accordion
+Multimedia
+org.billthefarmer.crossword
+Games
+org.billthefarmer.currency
+Money
+org.billthefarmer.diary
+Writing
+org.billthefarmer.editor
+Writing, System
+org.billthefarmer.melodeon
+Multimedia
+org.billthefarmer.notes
+Writing
+org.billthefarmer.scope
+Multimedia
+org.billthefarmer.shorty
+Multimedia
+org.billthefarmer.siggen
+Multimedia
+org.billthefarmer.tuner
+Multimedia
+org.birthdayadapter
+Time
+org.bitbatzen.wlanscanner
+System, Connectivity, Security
+org.bitbucket.tickytacky.mirrormirror
+Multimedia
+org.blitzortung.android.app
+Science & Education
+org.blockinger.game
+Games
+org.blokada.alarm
+Internet
+org.blokada.fem.fdroid
+Internet
+org.bobstuff.bobball
+Games
+org.bombusmod
+Internet
+org.bottiger.podcast
+Multimedia
+org.brandroid.openmanager
+System
+org.briarproject.briar.android
+Connectivity, Internet, Security
+org.broeuschmeul.android.gps.bluetooth.provider
+Navigation
+org.broeuschmeul.android.gps.usb.provider
+System, Navigation
+org.c_base.c_beam
+Science & Education
+org.calyxinstitute.vpn
+Internet, Security
+org.catrobat.paintroid
+Graphics
+org.chickenhook.binderfuzzy
+Security
+org.chickenhook.startflagexploit
+Security
+org.chorem.android.saymytexts
+Phone & SMS
+org.chrisbailey.todo
+Theming
+org.ciasaboark.tacere
+Time
+org.cipherdyne.fwknop2
+Internet
+org.cmotc.tools.rotationlockpp
+System
+org.commonvoice.saverio
+Science & Education
+org.congresointeractivo.elegilegi
+Games
+org.connectbot
+Internet
+org.coolfrood.mytronome
+Multimedia
+org.coolreader
+Reading
+org.courville.nova
+Multimedia
+org.covolunablu.marswallpaper
+Theming
+org.cprados.wificellmanager
+Connectivity
+org.crocodile.sbautologin
+Connectivity
+org.cry.otp
+Security
+org.cuberite.android
+Games
+org.cyanogenmod.great.freedom
+Theming
+org.cyanogenmod.oneclick
+System
+org.damazio.notifier
+System
+org.dash.electrum.electrum_dash
+Money
+org.daylightingsociety.wherearetheeyes
+Security, Navigation
+org.ddosolitary.okcagent
+System, Security
+org.debian.eugen.headingcalculator
+Navigation
+org.decsync.cc
+System
+org.decsync.sparss.floss
+Reading, Internet
+org.deluge.trireme
+Internet
+org.developfreedom.ccdroid.app
+Development
+org.developfreedom.logmein
+Internet
+org.developfreedom.wordpowermadeeasy
+Reading
+org.dgtale.icsimport
+Time
+org.disroot.disrootapp
+Internet
+org.disrupted.rumble
+Connectivity
+org.diygenomics.pg
+Science & Education
+org.dmfs.tasks
+Writing
+org.dnaq.dialer2
+Phone & SMS
+org.docspell.docspellshare
+Science & Education
+org.documentfoundation.libreoffice
+Reading
+org.dolphinemu.dolphinemu
+Games
+org.domogik.domodroid13
+System
+org.dpadgett.timer
+System
+org.droidparts.battery_widget
+System
+org.droidtr.deletegapps
+System
+org.droidtr.keyboard
+System
+org.droidtr.termbin
+Internet
+org.droidupnp
+Multimedia
+org.dsandler.apps.markers
+Graphics
+org.dslul.openboard.inputmethod.latin
+System, Writing
+org.durka.hallmonitor
+Theming
+org.dynalogin.android
+Security
+org.dynamicsoft.caloriescope
+Sports & Health
+org.dyndns.fules.ck
+Writing
+org.dyndns.ipignoli.petronius
+Writing
+org.dyndns.sven_ola.debian_kit
+Development
+org.dyndns.warenix.web2pdf
+Multimedia
+org.dystopia.email
+Internet
+org.ea.sqrl
+Security
+org.easyrpg.player
+Games
+org.edunivers.whereami
+Navigation
+org.eehouse.android.xw4
+Games
+org.elijaxapps.androidxmrigminer
+Money
+org.emergent.android.weave
+Internet
+org.emunix.insteadlauncher
+Games
+org.emunix.unipatcher
+Games
+org.encointer.wallet
+Money
+org.epstudios.epmobile
+Sports & Health
+org.epstudios.morbidmeter
+Science & Education
+org.equeim.tremotesf
+Internet
+org.esteban.piano
+Multimedia
+org.ethack.orwall
+Internet, Security
+org.eu.exodus_privacy.exodusprivacy
+Security
+org.eukalyptus.balance
+Science & Education
+org.eukalyptus.liquidrechner
+Science & Education
+org.evilsoft.pathfinder.reference
+Games
+org.example.rosary
+Reading
+org.fastergps
+System
+org.fdroid.fdroid
+System
+org.fdroid.fdroid.privileged
+System
+org.fdroid.fdroid.privileged.ota
+System
+org.fedorahosted.freeotp
+System
+org.fitchfamily.android.dejavu
+Navigation
+org.fitchfamily.android.gsmlocation
+Navigation
+org.fitchfamily.android.symphony
+Multimedia
+org.fitchfamily.android.wifi_backend
+Navigation
+org.floens.chan
+Internet
+org.flyve.inventory.agent
+System
+org.flyve.mdm.agent
+System
+org.flyve.mdm.agent.mqtt
+System
+org.fossasia.badgemagic
+Connectivity
+org.fox.tttrss
+Internet
+org.freedombox.freedombox
+Internet, Security
+org.freeminer.freeminer
+Games
+org.freenetproject.mobile
+Connectivity, Internet, Security
+org.freshrss.easyrss
+Internet, Reading
+org.froscon.schedule
+Time
+org.galexander.sshd
+Internet, System
+org.gateshipone.malp
+Multimedia, Connectivity
+org.gateshipone.odyssey
+Multimedia
+org.gc.networktester
+Connectivity
+org.gdroid.gdroid
+System
+org.gege.caldavsyncadapter
+Time
+org.geometerplus.fbreader.plugin.local_opds_scanner
+Reading
+org.geometerplus.fbreader.plugin.tts
+Reading
+org.geometerplus.zlibrary.ui.android
+Reading
+org.getdisconnected.libreipsum
+Development, Writing
+org.gfd.gsmlocation
+Navigation
+org.ghostsinthelab.apps.guilelessbopomofo
+System, Writing
+org.gitorious.jamesjrh.isokeys
+Multimedia
+org.gittner.osmbugs
+Development
+org.glucosio.android
+Sports & Health
+org.gmote.client.android
+Multimedia
+org.gnu.icecat
+Internet
+org.grapentin.apps.exceer
+Sports & Health
+org.gringene.colourclock
+Science & Education, Time
+org.gringene.concentricclock
+Science & Education, Time
+org.handmadeideas.chordreader
+Multimedia
+org.hanenoshino.onscripter
+Games
+org.happypeng.sumatora.android.sumatoradictionary
+Reading
+org.happysanta.gd
+Games
+org.hekmatof.chesswatch
+Games, Time
+org.helllabs.android.xmp
+Multimedia
+org.hermit.tricorder
+System
+org.herrlado.ask.languagepack.czech
+Writing
+org.herrlado.ask.languagepack.lithuanian
+Writing
+org.herrlado.geofonts
+System
+org.hiittimer.hiittimer
+Time, Sports & Health
+org.hlwd.bible
+Reading
+org.hlwd.bible_multi_the_life
+Reading
+org.hoi_polloi.android.ringcode
+System
+org.holylobster.nuntius
+System
+org.horaapps.leafpic
+Multimedia, Graphics
+org.hwyl.sexytopo
+Science & Education
+org.hystudio.android.dosbox
+Games
+org.icasdri.mather
+Science & Education
+org.iilab.openmentoring
+Science & Education, Security, Reading
+org.iilab.pb
+Phone & SMS
+org.indywidualni.fblite
+Internet
+org.inventati.massimol.liberovocab
+Science & Education
+org.ironrabbit
+Reading
+org.ironrabbit.bhoboard
+Writing
+org.isoron.uhabits
+Sports & Health
+org.itishka.pointim
+Internet
+org.jak_linux.dns66
+Internet
+org.jamienicol.episodes
+Multimedia
+org.janb.shoppinglist
+Writing
+org.jdfossapps.android.shopwithmom
+Money
+org.jessies.dalvikexplorer
+Development
+org.jf.Penroser
+Theming
+org.jfedor.frozenbubble
+Games
+org.jfedor.nxtremotecontrol
+Science & Education
+org.jfet.batsHIIT
+Sports & Health
+org.jitsi.meet
+Phone & SMS
+org.jmoyer.NotificationPlus
+System
+org.jschwab.openrecipes
+Sports & Health, Connectivity
+org.jsharkey.sky
+Theming
+org.jsl.shmp
+Games, Connectivity
+org.jsl.wfwt
+Connectivity
+org.jtb.alogcat
+Development
+org.jtb.droidlife
+Games
+org.jtb.httpmon
+Development
+org.jwz.xscreensaver
+Theming
+org.kaqui
+Science & Education
+org.katsarov.dofcalc
+Science & Education
+org.katsarov.heatcalc
+Science & Education
+org.kaziprst.android.ndfilter
+Multimedia, Science & Education
+org.kde.bettercounter
+Time, Sports & Health
+org.kde.kdeconnect_tp
+System
+org.kde.ktrip
+Internet, Navigation
+org.kde.necessitas.ministro
+Development
+org.kiwix.kiwixmobile
+Reading
+org.kknickkk.spider
+Connectivity
+org.kontalk
+Internet
+org.kore.kolabnotes.android
+Writing
+org.koreader.launcher
+Reading
+org.kost.nmap.android.networkmapper
+Internet
+org.kristbaum.como
+Games, Writing
+org.krita
+Graphics, Multimedia
+org.kwaak3
+Games
+org.legtux.m_316k.fortune
+Reading
+org.legtux.m_316k.taptheblacktiles
+Games
+org.lenchan139.ncbookmark
+Internet
+org.lf_net.pgpunlocker
+Internet, Security
+org.liberty.android.fantastischmemo
+Science & Education
+org.liberty.android.freeotpplus
+System
+org.libre.agosto.p2play
+Internet, Multimedia
+org.libreflix.app
+Multimedia
+org.libreoffice.impressremote
+Connectivity
+org.ligi.ajsha
+Development
+org.ligi.blexplorer
+Development
+org.ligi.etheremote
+Security
+org.ligi.fast
+System
+org.ligi.faster
+System
+org.ligi.gobandroid_hd
+Games
+org.ligi.ipfsdroid
+System
+org.ligi.materialteatimer
+Time
+org.ligi.passandroid
+Reading
+org.ligi.satoshiproof
+Security
+org.ligi.survivalmanual
+Reading
+org.ligi.vaporizercontrol
+Science & Education
+org.linaro.glmark2
+System
+org.linphone
+Phone & SMS
+org.logicallycreative.movingpolygons
+Theming
+org.lufebe16.pysolfc
+Games
+org.lumicall.android
+Phone & SMS
+org.macno.puma
+Internet
+org.madore.android.unicodeMap
+Development
+org.marcus905.wifi.ace
+Connectivity
+org.mariotaku.imageviewergl
+Multimedia
+org.mariotaku.twidere
+Internet
+org.mariotaku.twidere.extension.twitlonger
+Internet
+org.materialos.icons
+Theming
+org.mattvchandler.a2050
+Games
+org.mattvchandler.progressbars
+Time
+org.mbach.lemonde
+Reading
+org.mcxa.softsound
+Multimedia
+org.mcxa.vortaro
+Reading
+org.mcxa.zephyrlogger
+Sports & Health
+org.metabrainz.android
+Internet, Multimedia
+org.miamplayer.autoairplanemode
+Time, System, Connectivity
+org.mian.gitnex
+Internet
+org.michaelevans.nightmodeenabler
+Theming
+org.microg.nlp
+Navigation
+org.microg.nlp.backend.apple
+Navigation
+org.microg.nlp.backend.ichnaea
+Navigation
+org.microg.nlp.backend.nominatim
+Navigation
+org.midorinext.android
+Internet
+org.mixare
+Navigation
+org.mmk2410.cyngn.theme.fira
+Theming
+org.moire.opensudoku
+Games
+org.moire.ultrasonic
+Multimedia, Internet
+org.montrealtransit.android.schedule.stmbus
+Navigation
+org.moparisthebest.appbak
+System
+org.moparisthebest.pageplus
+Money
+org.mosad.seil0.projectlaogai
+Science & Education
+org.mosad.teapod
+Multimedia
+org.mosspaper
+Theming
+org.mozc.android.inputmethod.japanese
+Writing
+org.mozilla.fennec_fdroid
+Internet
+org.mult.daap
+Multimedia
+org.mumod.android
+Internet
+org.mupen64plusae.v3.alpha
+Games
+org.musicbrainz.picard.barcodescanner
+Multimedia
+org.musicpd
+Multimedia
+org.mustard.android
+Internet
+org.mysociety.FixMyStreet
+Navigation
+org.mythdroid
+Multimedia
+org.n52.sosmobileclient
+Science & Education
+org.nathan.jf.build.prop.editor
+Development
+org.navitproject.navit
+Navigation
+org.ncrmnt.nettts
+Multimedia
+org.ndeftools.boilerplate
+Development, Connectivity
+org.nerdcircus.android.klaxon
+Phone & SMS
+org.nexttracks.android
+Internet, Navigation
+org.nick.cryptfs.passwdmanager
+Security
+org.nick.wwwjdic
+Science & Education
+org.ninthfloor.copperpdf
+Reading, System
+org.nitri.opentopo
+Navigation
+org.nonononoki.hendroid
+Reading
+org.notabug.lifeuser.moviedb
+Multimedia
+org.npr.android.news
+Reading
+org.ntpsync
+System
+org.numixproject.iconsubmit
+Multimedia
+org.nuntius35.wrongpinshutdown
+System
+org.nutritionfacts.dailydozen
+Sports & Health
+org.nv95.openmanga
+Reading, Multimedia
+org.ocsinventoryng.android.agent
+Reading
+org.odk.collect.android
+Science & Education
+org.og8.a1tox
+Games
+org.ogre.browser
+Games
+org.okfn.pod
+Multimedia
+org.olgsoft.apipepanic
+Games
+org.olpc_france.sugarizer
+Science & Education
+org.openbmap
+Connectivity
+org.openbmap.unifiedNlp
+Navigation
+org.opengappsdownloader
+Internet
+org.opengemara.shiurim
+Reading
+org.opengpx
+Navigation
+org.openhab.habdroid
+Internet
+org.openhab.habdroid.beta
+Internet
+org.openintents.about
+System
+org.openintents.filemanager
+System
+org.openintents.flashlight
+System
+org.openintents.notepad
+Writing
+org.openintents.safe
+Security
+org.openintents.shopping
+Writing
+org.openlp.android
+Connectivity
+org.openlp.android2
+Multimedia, Reading
+org.openobservatory.ooniprobe
+Internet, Security
+org.openorienteering.mapper
+Navigation
+org.openpetfoodfacts.scanner
+Sports & Health
+org.osmdroid
+Navigation
+org.osmocom.tacdatabaseclient
+Phone & SMS
+org.ostrya.presencepublisher
+Connectivity
+org.pacien.tincapp
+Connectivity, Internet, Security, System
+org.paladyn.mediclog
+Sports & Health
+org.passwordmaker.android
+Security
+org.paulmach.textedit
+Writing
+org.peterbaldwin.client.android.tinyurl
+Internet
+org.peterbaldwin.client.android.vlcremote
+Multimedia
+org.petero.droidfish
+Games
+org.pipoypipagames.cowsrevenge
+Games
+org.pipoypipagames.towerjumper
+Games
+org.piwigo.android
+Graphics, Multimedia
+org.pixmob.freemobile.netstat
+Phone & SMS
+org.pocketworkstation.pckeyboard
+Writing
+org.poirsouille.tinc_gui
+Internet
+org.poopeeland.tinytinyfeed
+Internet
+org.poul.bits.android
+Internet
+org.ppsspp.ppsspp
+Games
+org.primftpd
+Connectivity
+org.privacyhelper
+Science & Education
+org.projectmaxs.main
+System
+org.projectmaxs.module.alarmset
+System
+org.projectmaxs.module.bluetooth
+System
+org.projectmaxs.module.bluetoothadmin
+System
+org.projectmaxs.module.clipboard
+System
+org.projectmaxs.module.contactsread
+System
+org.projectmaxs.module.fileread
+System
+org.projectmaxs.module.filewrite
+System
+org.projectmaxs.module.locationfine
+System
+org.projectmaxs.module.misc
+System
+org.projectmaxs.module.nfc
+System
+org.projectmaxs.module.notification
+System
+org.projectmaxs.module.phonestateread
+System
+org.projectmaxs.module.ringermode
+System
+org.projectmaxs.module.shell
+System
+org.projectmaxs.module.smsnotify
+System
+org.projectmaxs.module.smsread
+System
+org.projectmaxs.module.smssend
+System
+org.projectmaxs.module.smswrite
+System
+org.projectmaxs.module.wifiaccess
+System
+org.projectmaxs.module.wifichange
+System
+org.projectmaxs.transport.xmpp
+System
+org.projectvoodoo.otarootkeeper
+System
+org.projectvoodoo.screentestpatterns
+Development
+org.projectvoodoo.simplecarrieriqdetector
+Security
+org.proninyaroslav.libretorrent
+Internet
+org.pulpdust.lesserpad
+Writing
+org.purple.smoke
+Internet
+org.pyload.android.client
+System
+org.pyneo.maps
+Navigation
+org.qii.weiciyuan
+Internet
+org.quantumbadger.redreader
+Internet
+org.quovadit.apps.andof
+Multimedia
+org.recentwidget
+Theming
+org.redcross.openmapkit
+Navigation
+org.retroshare.android.qml_app
+Security, Internet
+org.rmll
+Time
+org.runnerup.free
+Sports & Health
+org.safecoin.safeprice
+Internet, Money
+org.safermobile.intheclear
+Security
+org.sagemath.droid
+Science & Education
+org.saiditnet.redreader
+Internet
+org.sasehash.burgerwp
+Theming
+org.savapage.android.print
+Connectivity, Internet, Multimedia
+org.schabi.etherwake
+System
+org.schabi.jedentageinset
+Multimedia
+org.schabi.kiba
+Internet
+org.schabi.newpipe
+Multimedia, Internet
+org.schabi.newpipelegacy
+Multimedia, Internet
+org.schabi.nxbookmarks
+Multimedia, Internet
+org.schabi.stethox
+System
+org.schabi.svgredirect
+Multimedia
+org.schabi.terminightor
+Time
+org.scid.android
+Games
+org.scoutant.blokish
+Games
+org.scoutant.cc
+Games
+org.scoutant.rpn
+Science & Education
+org.scummvm.scummvm
+Games
+org.seamapdroid
+Internet
+org.secuso.privacyfriendly2048
+Games
+org.secuso.privacyfriendlyactivitytracker
+Sports & Health
+org.secuso.privacyfriendlyboardgameclock
+Games, Time
+org.secuso.privacyfriendlycardgameone
+Games
+org.secuso.privacyfriendlycircuittraining
+Sports & Health
+org.secuso.privacyfriendlydame
+Games
+org.secuso.privacyfriendlydicer
+Games
+org.secuso.privacyfriendlyfinancemanager
+Money
+org.secuso.privacyfriendlyfoodtracker
+Sports & Health
+org.secuso.privacyfriendlyintervaltimer
+Sports & Health
+org.secuso.privacyfriendlyludo
+Games
+org.secuso.privacyfriendlymemory
+Games
+org.secuso.privacyfriendlyminesweeper
+Games
+org.secuso.privacyfriendlynetmonitor
+System, Internet
+org.secuso.privacyfriendlynotes
+Writing
+org.secuso.privacyfriendlypaindiary
+Sports & Health
+org.secuso.privacyfriendlypasswordgenerator
+Security
+org.secuso.privacyfriendlypausinghealthily
+Sports & Health
+org.secuso.privacyfriendlypin
+System, Security
+org.secuso.privacyfriendlyrecknoningskills
+Science & Education, Games
+org.secuso.privacyfriendlyruler
+Multimedia
+org.secuso.privacyfriendlysketching
+Graphics
+org.secuso.privacyfriendlysolitaire
+Games
+org.secuso.privacyfriendlysudoku
+Games
+org.secuso.privacyfriendlytapemeasure
+Multimedia
+org.secuso.privacyfriendlytodolist
+Writing, Time
+org.secuso.privacyfriendlyweather
+Multimedia, Internet
+org.secuso.privacyfriendlywifimanager
+Internet, System, Connectivity
+org.secuso.privacyfriendlyyahtzeedicer
+Games
+org.segin.bfinterpreter
+Development
+org.segin.ttleditor
+Development
+org.sensors2.osc
+Multimedia
+org.sensors2.pd
+Multimedia
+org.servDroid.web
+Development
+org.servalproject
+Phone & SMS
+org.sge.haltestellenanzeige
+Navigation
+org.shadowice.flocke.andotp
+Security
+org.shirakumo.ocelot
+Internet
+org.shortcuts
+System
+org.sickstache
+Multimedia
+org.sipdroid.sipua
+Phone & SMS
+org.smblott.intentradio
+Internet
+org.smc.inputmethod.indic
+Writing
+org.smssecure.smssecure
+Phone & SMS, Security
+org.snikket.android
+Internet
+org.softcatala.traductor
+Reading
+org.softeg.slartus.forpdaplus
+Internet
+org.solovyev.android.calculator
+System
+org.sorz.lab.tinykeepass
+Security
+org.sparkleshare.android
+Internet
+org.strawberryforum.argentum
+Internet
+org.strawberryforum.pollywog
+System
+org.subsurface
+Sports & Health
+org.sudowars
+Games
+org.sufficientlysecure.ical
+Time
+org.sufficientlysecure.keychain
+Security
+org.sufficientlysecure.localcalendar
+Time
+org.sufficientlysecure.standalonecalendar
+Time
+org.sufficientlysecure.termbot
+Internet
+org.sufficientlysecure.viewer
+Reading
+org.sufficientlysecure.viewer.fontpack
+Reading
+org.sugr.gearshift
+Internet
+org.supertuxkart.stk
+Games
+org.surrel.facebooknotifications
+Internet
+org.surrel.messengerbypasser
+Internet
+org.sw24softwares.starkeverben
+Science & Education
+org.synergy
+Connectivity
+org.systemcall.scores
+Games
+org.t2.synconwifi
+System, Connectivity
+org.tamanegi.atmosphere
+Science & Education
+org.tamanegi.wallpaper.multipicture.dnt
+Theming
+org.tasks
+Writing
+org.tbrk.mnemododo
+Science & Education
+org.telegram.messenger
+Internet
+org.tengel.planisphere
+Science & Education
+org.tengel.timescale
+Science & Education
+org.tether.tether
+Phone & SMS, Connectivity, Security
+org.thecongers.mtpms
+Science & Education
+org.thialfihar.android.apg
+Internet, Security
+org.thiolliere.youtubestream
+Multimedia
+org.thosp.yourlocalweather
+Internet
+org.tigase.messenger.phone.pro
+Internet
+org.tilelessmap.app
+Navigation
+org.tint
+Internet
+org.tint.adblock
+Internet
+org.tlhInganHol.android.klingonassistant
+Writing
+org.tmurakam.presentationtimer
+Time
+org.tof
+Games
+org.tomdroid
+Writing
+org.totschnig.myexpenses
+Money
+org.totschnig.ocr.tesseract
+Graphics
+org.totschnig.sendwithftp
+Internet
+org.toulibre.capitoledulibre
+Time
+org.traccar.client
+Navigation
+org.transdroid.full
+Internet
+org.transdroid.lite
+Internet
+org.transdroid.search
+Internet
+org.tryton.client
+Money
+org.ttrssreader
+Internet
+org.tunesremote
+Multimedia
+org.tuxpaint
+Graphics, Science & Education
+org.tvheadend.tvhguide
+Multimedia
+org.twistedappdeveloper.statocovid19italia
+Sports & Health
+org.uaraven.e
+Science & Education
+org.us.andriod
+Science & Education
+org.valos.isolmoa
+Games
+org.vi_server.red_screen
+System
+org.videolan.vlc
+Multimedia
+org.voidptr.swpieview
+Graphics
+org.voidsink.anewjkuapp
+Science & Education
+org.vono.narau
+Science & Education
+org.vudroid
+Reading
+org.wahtod.wififixer
+Connectivity
+org.walleth
+Money
+org.weilbach.splitbills
+Money
+org.wentura.getflow
+Time
+org.wheelmap.android.online
+Navigation
+org.whitequark.sipcaller
+Phone & SMS, System
+org.wikimedia.commons.muzei
+Multimedia, Theming
+org.wikimedia.commons.wikimedia
+Internet, Multimedia
+org.wikipedia
+Internet
+org.wiktionary
+Internet
+org.witness.sscphase1
+Multimedia, Security
+org.woheller69.weather
+Internet
+org.woltage.irssiconnectbot
+System
+org.wownero.cyberwow
+Money
+org.wroot.android.goldeneye
+Internet
+org.xapek.andiodine
+Connectivity
+org.xbmc.android.remote
+Multimedia
+org.xbmc.kodi
+Multimedia
+org.xbmc.kore
+Multimedia
+org.xcsoar
+Navigation
+org.xphnx.ameixa
+Theming
+org.xphnx.ameixamonochrome
+Theming
+org.xphnx.iconsubmit
+Theming
+org.xposeddownloader
+Internet
+org.y20k.escapepod
+Multimedia
+org.y20k.trackbook
+Navigation
+org.y20k.transistor
+Multimedia
+org.yaaic
+Internet
+org.yabause.android
+Games
+org.yausername.dvd
+Internet, Multimedia
+org.yaxim.androidclient
+Internet
+org.yuttadhammo.BodhiTimer
+Time
+org.yuttadhammo.tipitaka
+Reading
+org.zakky.memopad
+Graphics
+org.zamedev.gloomydungeons1hardcore.opensource
+Games
+org.zamedev.gloomydungeons2.opensource
+Games
+org.zeitgeist.movement
+Internet
+org.zephyrsoft.checknetwork
+Internet
+org.zephyrsoft.sdbviewer
+Reading, Multimedia
+org.zephyrsoft.trackworktime
+Time
+org.zimmob.zimlx
+System
+org.zirco
+Internet
+pc.javier.actualizadoropendns
+Connectivity
+pc.javier.seguime
+Navigation, Security
+peanutencryption.peanutencryption
+Security
+pk.contender.earmouse
+Multimedia
+pl.hypeapp.endoscope
+Multimedia
+pl.kuben.progressapp
+Science & Education
+pl.narfsoftware.thermometer
+System
+pl.net.szafraniec.NFCKey
+Connectivity
+pl.net.szafraniec.NFCTagmaker
+Connectivity
+pl.nkg.geokrety
+Navigation
+pl.sanszo.pcis
+Games
+player.efis.cfd
+Navigation
+player.efis.data.eur.rus
+Navigation
+player.efis.data.pan.arg
+Navigation
+player.efis.data.sah.jap
+Navigation
+player.efis.data.usa.can
+Navigation
+player.efis.data.zar.aus
+Navigation
+player.efis.mfd
+Navigation
+player.efis.pfd
+Navigation
+posidon.launcher
+Theming
+press.condense.www
+Reading
+priv.twoerner.brightnesswidget
+System
+privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist
+Writing
+pro.dbro.bart
+Navigation
+pro.oneredpixel.l9droid
+Games
+pro.rudloff.lineageos_updater_shortcut
+System
+pro.rudloff.muzei.commons
+Theming
+pro.rudloff.openvegemap
+Navigation
+pro.rudloff.papercraft
+Games
+protect.babymonitor
+Connectivity
+protect.babysleepsounds
+Multimedia
+protect.budgetwatch
+Money
+protect.card_locker
+Money
+protect.gift_card_guard
+Money
+protect.rentalcalc
+Money
+protect.videoeditor
+Multimedia
+pt.ipleiria.mymusicqoe
+Multimedia
+pt.isec.tp.am
+Games
+pt.joaomneto.titancompanion
+Games
+pw.thedrhax.mosmetro
+Connectivity, Internet
+quickly.quit
+System
+raele.concurseiro
+Science & Education
+raffarti.simpleadvancedmetronome
+Multimedia
+re.indigo.epistolaire
+Phone & SMS, System
+re.jcg.playmusicexporter
+Multimedia
+remuco.client.android
+Multimedia
+rino.org.tethercompanion
+Connectivity
+rkr.simplekeyboard.inputmethod
+Writing
+ro.ciubex.dscautorename
+Multimedia
+ro.hume.cosmin.retrostack
+Games
+ro.ieval.fonbot
+System
+ro.ioanm.fissh
+Security
+ro.ui.pttdroid
+Phone & SMS
+rocks.poopjournal.flashy
+System
+rocks.poopjournal.morse
+Science & Education
+rocks.tbog.tblauncher
+System, Theming
+rodrigodavy.com.github.pixelartist
+Graphics
+rs.ltt.android
+Internet
+rs.pedjaapps.alogcatroot.app
+Development
+ru.equestriadev.mgke
+Time
+ru.evgeniy.dpitunnel
+Internet
+ru.exlmoto.snood21
+Games
+ru.gelin.android.browser.open
+Internet, Reading
+ru.gelin.android.sendtosd
+System
+ru.gelin.android.weather.notification
+Internet
+ru.gelin.android.weather.notification.skin.biggertext
+Internet
+ru.gelin.android.weather.notification.skin.blacktext
+Internet
+ru.gelin.android.weather.notification.skin.blacktextplus
+Internet
+ru.gelin.android.weather.notification.skin.whitetext
+Theming
+ru.gelin.android.weather.notification.skin.whitetextplus
+Internet
+ru.glesik.wifireminders
+Connectivity
+ru.henridellal.dialer
+Phone & SMS
+ru.henridellal.emerald
+System
+ru.henridellal.fsassist
+Games
+ru.henridellal.patolli
+Games
+ru.hyst329.openfool
+Games
+ru.ifproject.android.afr
+Sports & Health, Theming
+ru.meefik.busybox
+System
+ru.moscow.tuzlukov.sergey.weatherlog
+Time
+ru.neverdark.silentnight
+System
+ru.o2genum.coregame
+Games
+ru.playsoftware.j2meloader
+Games
+ru.ra66it.updaterforspotify
+Internet
+ru.sash0k.bluetooth_terminal
+Development, Connectivity
+ru.seva.finder
+Navigation, Phone & SMS
+ru.subprogram.paranoidsmsblocker
+Phone & SMS
+ru.ttyh.neko259.notey
+Writing
+ru.valle.btc
+Money
+ru.yanus171.feedexfork
+Reading
+ru.zxalexis.ugaday
+Games
+ru0xdc.rtkgps
+Navigation
+ryey.camcov
+System
+ryey.colorsniffer
+System
+ryey.easer
+System
+ryey.easer.beta
+System
+ryey.flock
+System
+saschpe.contactevents
+System
+saschpe.poker
+System
+science.itaintrocket.pomfshare
+Internet
+se.anyro.nfc_reader
+Connectivity
+se.bitcraze.crazyfliecontrol2
+Connectivity, Games, Science & Education
+se.danielj.geometridestroyer
+Games
+se.embargo.retroboy
+Multimedia
+se.erikofsweden.findmyphone
+System
+se.johanhil.clipboard
+System
+se.johanhil.duckduckgo
+Internet
+se.leap.bitmaskclient
+Internet, Security
+se.leap.riseupvpn
+Internet, Security
+se.lublin.mumla
+Internet
+se.manyver
+Connectivity
+se.norenh.rkfread
+Navigation
+se.oandell.riksdagen
+Science & Education
+se.pp.mc.android.Gerberoid
+Science & Education
+se.traffar.dot_race
+Games
+se.tube42.drum.android
+Multimedia
+se.tube42.kidsmem.android
+Games
+se.tube42.p9.android
+Games
+seanfoy.wherering
+Navigation
+search.searx
+Internet
+security.pEp
+Security, Internet
+sh.ftp.rocketninelabs.meditationassistant.opensource
+Time, Sports & Health
+sh.ikl.liteshort
+Internet
+si.modrajagoda.didi
+Writing
+siir.es.adbWireless
+Connectivity
+simple.reboot.com
+System
+site.leos.apps.lespas
+Graphics, Multimedia
+site.leos.setter
+Internet, System
+sk.halmi.fbeditplus
+Games
+sk.madzik.android.logcatudp
+Connectivity
+sk.vx.connectbot
+Internet
+sonoroxadc.garethmurfin.co.uk
+Multimedia
+sony.hidden.servicemenu
+System
+souch.smp
+Multimedia
+souch.smsbypass
+Phone & SMS
+space.bm835.pb
+System
+space.kraut.schluessel
+Security
+space.neothefox.laytray
+System
+starcom.snd
+Connectivity
+steele.gerry.dotty
+Development
+sterrenburg.github.flutterhole
+Internet, Security
+streetwalrus.usbmountr
+System
+su.sadrobot.yashlang
+Internet, Multimedia
+su.xash.husky
+Internet
+subins2000.manglish
+Reading, Science & Education, Writing
+subreddit.android.appstore
+System
+sun.bob.leela
+Security, Internet
+superfreeze.tool.android
+System
+superustats.tool.android
+System
+swati4star.createpdf
+Multimedia
+systems.byteswap.aiproute
+System, Internet
+szelok.app.twister
+Internet
+taco.apkmirror
+Internet, System
+team.swing.pendulums
+Time
+teaonly.droideye
+Multimedia
+tech.projectmatris.antimalwareapp
+Security
+tech.ula
+Development
+tech.waelk.radioactive.metronome
+Multimedia
+telegra.ph
+Internet
+theakki.synctool
+System, Connectivity
+theredspy15.ltecleanerfoss
+System
+threads.server
+Connectivity
+tk.al54.dev.badpixels
+System
+tk.elevenk.dailybread
+Reading
+tk.giesecke.disaster_radio
+Connectivity, Internet, Navigation
+tk.giesecke.painlessmesh
+Internet
+tk.giesecke.phoenix
+System, Development
+tk.jordynsmediagroup.simpleirc.fdroid
+Internet
+tk.radioactivemineral.metronome
+Multimedia
+tk.superl2.xwifi
+System
+tkj.android.homecontrol.mythmote
+Multimedia
+tmendes.com.analyticalbalancedroid
+Money, Sports & Health
+tmendes.com.waterydroid
+Sports & Health
+tn.creativeteam.newyoutubelistingapp
+Internet, Multimedia
+tomer.com.alwaysonamoledplugin
+System
+tool.fff.profilepicturegenerator
+Internet
+tranquvis.simplesmsremote
+System, Phone & SMS
+trikita.obsqr
+System
+trikita.slide
+Writing
+trikita.talalarmo
+Time
+tritop.android.SLWTrafficMeterWidget
+Theming
+tritop.androidSLWCpuWidget
+Internet
+troop.com.freedcam
+Graphics, Multimedia
+truewatcher.tower
+Navigation
+tv.piratemedia.lightcontroler
+Multimedia
+tw.com.daxia.virtualsoftkeys
+System
+tw.qtlin.mac.airunlocker
+System
+tyagi.shubham.customsearch
+Internet
+ua.gardenapple.itchupdater
+Games, Internet
+ua.gardenapple.trylbry
+Multimedia
+uk.ac.cam.cl.dtg.android.barcodebox
+Multimedia
+uk.ac.ed.inf.mandelbrotmaps
+Science & Education
+uk.ac.swansea.eduroamcat
+Internet
+uk.co.ashtonbrsc.android.intentintercept
+Development
+uk.co.bitethebullet.android.token
+System
+uk.co.busydoingnothing.catverbs
+Science & Education
+uk.co.busydoingnothing.prevo
+Reading
+uk.co.danieljarvis.android.flashback
+Phone & SMS
+uk.co.jarofgreen.JustADamnCompass
+Navigation
+uk.co.keepawayfromfire.screens
+System
+uk.co.richyhbm.monochromatic
+Graphics, Reading, Theming
+uk.co.yahoo.p1rpp.calendartrigger
+Time, System
+uk.org.boddie.android.weatherforecast
+Internet
+uk.org.crimetalk
+Reading, Science & Education
+uk.org.ngo.squeezer
+Multimedia
+uk.sensoryunderload.infinilist
+Writing
+unisiegen.photographers.activity
+Multimedia, Graphics
+uobikiemukot.yaft
+Development
+urbanstew.RehearsalAssistant
+Multimedia
+us.achromaticmetaphor.agram
+Reading
+us.achromaticmetaphor.imcktg
+Phone & SMS, Multimedia
+us.bravender.android.dongsa
+Science & Education
+us.feras.mdv.demo
+Reading
+us.koller.cameraroll
+Multimedia, Graphics
+us.lindanrandy.cidrcalculator
+Science & Education
+us.shandian.giga
+Internet
+uscartools.USTravelConverter
+Science & Education
+ut.ewh.audiometrytest
+Sports & Health, Multimedia
+vnd.blueararat.kaleidoscope6
+Multimedia
+vocabletrainer.heinecke.aron.vocabletrainer
+Science & Education
+wb.receiptspro
+Money
+wiseguys.radar
+Time
+ws.xsoh.etar
+Time
+wsdfhjxc.taponium
+Games
+wseemann.media.romote
+Multimedia
+x1125io.initdlight
+System
+x653.all_in_gold
+Games
+x653.bullseye
+Games
+xyz.deepdaikon.quinb
+Games
+xyz.deepdaikon.xeonjia
+Games
+xyz.deepdaikon.zoysii
+Games
+xyz.hisname.fireflyiii
+Money
+xyz.iridiumion.plucklockex
+Security
+xyz.myachin.saveto
+Navigation
+xyz.zedler.patrick.grocy
+Sports & Health
+ymakei.vegetarian_journal
+Reading, Science & Education, Sports & Health
+youten.redo.ble.ibeacondetector
+Connectivity
+z4pp3r.flashlightwidget
+Theming, System
+za.co.lukestonehm.logicaldefence
+Reading
+za.co.neilson.alarm
+Time
+zame.GloomyDungeons.opensource.game
+Games
+zen.meditation.android
+Games, Graphics
